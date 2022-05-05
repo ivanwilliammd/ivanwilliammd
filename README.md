@@ -28,6 +28,12 @@ As both medical doctor and computer scientist, I'm looking forward for high atte
     - [Rising Star - House of Education and Music](https://risingstar.ivanwilliamharsono.com) - Landing Page for Tutoring Services
 
 \
+📊 **This Month I Spent My Time On:**
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+\
 📈 **My GitHub Stats:**
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanwilliammd&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
