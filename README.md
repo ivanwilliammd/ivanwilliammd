@@ -7,13 +7,13 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ivanwilliam.md@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/628161934519)
 
-
+<br><br>
 ### Glad to see you here! 
 
 I am a digital health product owner and trainer with years of experience. I majored both in medical doctor and computer science.
 As both medical doctor and computer scientist, I'm looking forward for high attention on how technology would benefit and bring positive impact to healthcare. 
 
-
+<br><br>
 **Talking about Personal Stuffs:**
 - 🔭 I’m currently working as <i>Digital Health Technologist, Product Owner, Data Scientists, Freelance Web Programmer, Medical Doctor, and Academic Tutor</i>.
 - 🔬 I'm a Biomedical Doctoral Students at [Faculty of Medicine, Universitas Indonesia](https://pdib.fk.ui.ac.id/).
@@ -27,6 +27,7 @@ As both medical doctor and computer scientist, I'm looking forward for high atte
     - [IvanMD](https://onelink.to/ivanmd) - Medical Record with Appointment System Web Apps with Webview on Android
     - [IvanMD](https://onelink.to/ivanmd) - Medical Record with Appointment System Web Apps with Webview on Android
 
+<br><br>
 📈 **My GitHub Stats:**
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanwilliammd&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
