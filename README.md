@@ -23,9 +23,10 @@ As both medical doctor and computer scientist, I'm looking forward for high atte
 - 🌱 I’m currently learning Bioinformatics Data Science, Javascript based web programming, Multiplatform programming.
 - 👯 I’m looking to collaborate on Genomics and Proteomics.
 - 💬 My current research interests include Machine Learning and AI implementation in Health.
-- 📦 Some of accessible product developed : 
-    - [IvanMD](https://onelink.to/ivanmd) - Medical Record with Appointment System Web Apps with Webview on Android
-    - [IvanMD](https://onelink.to/ivanmd) - Medical Record with Appointment System Web Apps with Webview on Android
+- 📦 Check this out : 
+    - [IvanMD](https://onelink.to/ivanmd) - Medical Record & Teleconsultation App with Appointment System (Web Apps & Android)
+    - [JournalReview](https://journalreview.ivanwilliamharsono.com) - Medical Journal Reading Appraisal Template & Note storing system
+    - [Rising Star - House of Education and Music](https://risingstar.ivanwilliamharsono.com) - Landing Page for Tutoring Services
 
 <br><br>
 📈 **My GitHub Stats:**
@@ -33,6 +34,3 @@ As both medical doctor and computer scientist, I'm looking forward for high atte
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanwilliammd&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanwilliammd&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
 </p>
-
-
-
