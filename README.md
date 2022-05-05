@@ -14,7 +14,7 @@ As both medical doctor and computer scientist, I'm looking forward for high atte
 
 \
 **Talking about Personal Stuffs:**
-- 🔭 I’m currently working as <i>Digital Health Technologist, Product Owner, Data Scientists, Freelance Web Programmer, Medical Doctor, and Academic Tutor</i>.
+- 🔭 I’m currently working as <i>Digital Health Technologist, Product Owner, Data Scientists, Medical Doctor, and Academic Tutor</i>.
 - 🔬 I'm a Biomedical Doctoral Students at [Faculty of Medicine, Universitas Indonesia](https://pdib.fk.ui.ac.id/).
 - ⚡ I graduated with a degree in : 
     - Master of Computer Science majoring in Data Science - [Faculty of Computer Science, Universitas Bina Nusantara](https://mti.binus.ac.id/) (2018-2019).
