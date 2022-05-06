@@ -30,7 +30,6 @@ As both medical doctor and computer scientist, I'm looking forward for high atte
 \
 📊 **This Month I Spent My Time On:**
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 \
