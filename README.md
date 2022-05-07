@@ -30,6 +30,16 @@ As both medical doctor and computer scientist, I'm looking forward for high atte
 \
 📊 **This Month I Spent My Time On:**
 <!--START_SECTION:waka-->
+
+```text
+From: 06 April 2022 - To: 06 May 2022
+
+Blade Template   23 mins         █████████████████████░░░░   84.17 %
+Python           3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+SQL              0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+```
+
 <!--END_SECTION:waka-->
 
 \
