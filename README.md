@@ -32,7 +32,7 @@ As both medical doctor and computer scientist, I'm looking forward for high atte
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 April 2022 - To: 11 May 2022
+From: 12 April 2022 - To: 12 May 2022
 
 Kotlin           1 hr 39 mins    ██████░░░░░░░░░░░░░░░░░░░   24.16 %
 Blade Template   1 hr 35 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.29 %
