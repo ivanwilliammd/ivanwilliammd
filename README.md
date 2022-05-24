@@ -104,6 +104,7 @@ As both medical doctor and computer scientist, I'm looking forward for high atte
 - 👯 I’m looking to collaborate on Genomics and Proteomics.
 - 💬 My current research interests include Machine Learning and AI implementation in Health.
 - 📦 Check this out : 
+    - [URLqr](https://urlqr.xyz) - Free URL Shortener with QR (without any ads, incl. number of clicks)
     - [IvanMD](https://onelink.to/ivanmd) - Medical Record & Teleconsultation App with Appointment System (Web Apps & Android)
     - [JournalReview](https://journalreview.ivanwilliamharsono.com) - Medical Journal Reading Appraisal Template & Note storing system
     - [Rising Star - House of Education and Music](https://risingstar.ivanwilliamharsono.com) - Landing Page for Tutoring Services
