@@ -114,13 +114,13 @@ As both medical doctor and computer scientist, I'm looking forward for high atte
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 May 2022 - To: 06 June 2022
+From: 08 May 2022 - To: 07 June 2022
 
-Blade Template   18 hrs 18 mins  ████████░░░░░░░░░░░░░░░░░   31.52 %
-PHP              15 hrs 50 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.28 %
-Python           11 hrs 13 mins  ████▓░░░░░░░░░░░░░░░░░░░░   19.33 %
-Kotlin           4 hrs 51 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-HTML             3 hrs           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+Blade Template   18 hrs 18 mins  ████████░░░░░░░░░░░░░░░░░   31.47 %
+PHP              15 hrs 50 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.24 %
+Python           11 hrs 20 mins  █████░░░░░░░░░░░░░░░░░░░░   19.49 %
+Kotlin           4 hrs 51 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
+HTML             3 hrs           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
 Other            1 hr 6 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 ```
 
