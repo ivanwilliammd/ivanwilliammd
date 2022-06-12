@@ -114,7 +114,7 @@ As both medical doctor and computer scientist, I'm looking forward for high atte
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 May 2022 - To: 10 June 2022
+From: 12 May 2022 - To: 11 June 2022
 
 Blade Template   17 hrs 12 mins  ████████░░░░░░░░░░░░░░░░░   31.94 %
 PHP              14 hrs 15 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.47 %
