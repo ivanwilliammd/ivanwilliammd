@@ -114,7 +114,7 @@ As both medical doctor and computer scientist, I'm looking forward for high atte
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 June 2022 - To: 08 July 2022
+From: 09 June 2022 - To: 09 July 2022
 
 Python           12 hrs 9 mins   ████████░░░░░░░░░░░░░░░░░   32.24 %
 PHP              11 hrs 50 mins  ████████░░░░░░░░░░░░░░░░░   31.40 %
