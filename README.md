@@ -9,7 +9,7 @@
 
 
 ### Glad to see you here! 
-I am a digital health product owner and trainer with years of experience. I majored both in medical doctor and computer science.
+I am a digital health product owner, trainer, HL7 FHIR specialists with years of experience. I majored both in medical doctor and computer science.
 As both medical doctor and computer scientist, I'm looking forward for high attention on how technology would benefit and bring positive impact to healthcare. 
 
 
@@ -32,15 +32,18 @@ As both medical doctor and computer scientist, I'm looking forward for high atte
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white)
 - Full Stack Web Programming : 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
-- Android programming (Noob) : 
+- Python Based Web Programming (Beginner) : 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
+![ODOO](https://img.shields.io/badge/odoo-FF6C37.svg?style=plastic&logo=python&logoColor=white)
+- Android programming (Beginner) : 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white)
 - Project Management : 
@@ -48,7 +51,6 @@ As both medical doctor and computer scientist, I'm looking forward for high atte
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=plastic&logo=google-analytics&logoColor=white)
 ![App Store Connect](https://img.shields.io/badge/App_Store_Connect-0D96F6?style=plastic&logo=app-store&logoColor=white)
 - Hosting service : 
@@ -69,7 +71,7 @@ As both medical doctor and computer scientist, I'm looking forward for high atte
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
 
 
-#### On the way learning/exploring : ####
+#### On the way exploring : ####
 - Challenge / Data Source : 
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=plastic&logo=kaggle&logoColor=white)
 - NoSQL : 
