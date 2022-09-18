@@ -9,8 +9,7 @@
 
 
 ### Glad to see you here! 
-I am a digital health product owner, trainer, HL7 FHIR specialists with years of experience. I majored both in medical doctor and computer science.
-As both medical doctor and computer scientist, I'm looking forward for high attention on how technology would benefit and bring positive impact to healthcare. 
+I am a digital health product owner, trainer, HL7 FHIR specialists with 8+ years of clinical, product, and technical experience. I majored both in medical doctor and computer science. As both medical doctor and computer scientist, I'm looking forward for high attention on how technology would benefit and bring positive impact to healthcare. 
 
 
 #### I speak : ####
