@@ -119,7 +119,7 @@ I am a digital health product owner, trainer, HL7 FHIR specialists with 8+ years
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 August 2022 - To: 25 September 2022
+From: 27 August 2022 - To: 26 September 2022
 
 Markdown     7 hrs 16 mins   █████████▒░░░░░░░░░░░░░░░   37.46 %
 JSON         5 hrs           ██████▒░░░░░░░░░░░░░░░░░░   25.73 %
