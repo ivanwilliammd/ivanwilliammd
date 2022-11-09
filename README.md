@@ -119,14 +119,14 @@ I am a digital health product owner, trainer, HL7 FHIR specialists with 8+ years
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 October 2022 - To: 08 November 2022
+From: 10 October 2022 - To: 09 November 2022
 
-Python           6 hrs 10 mins   █████████▓░░░░░░░░░░░░░░░   38.50 %
-Markdown         3 hrs 12 mins   █████░░░░░░░░░░░░░░░░░░░░   20.03 %
-JSON             2 hrs 38 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.49 %
-Bash             1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
-Text             45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-Other            40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Python           5 hrs 5 mins    ██████████░░░░░░░░░░░░░░░   40.43 %
+JSON             2 hrs 31 mins   █████░░░░░░░░░░░░░░░░░░░░   20.12 %
+Markdown         1 hr 25 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
+Bash             1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+Text             45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+PHP              33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
 ```
 
 <!--END_SECTION:waka-->
