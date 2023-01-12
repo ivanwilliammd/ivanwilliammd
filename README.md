@@ -120,7 +120,7 @@ I am a digital health product owner, trainer, HL7 FHIR specialists with 8+ years
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 December 2022 - To: 10 January 2023
+From: 12 December 2022 - To: 11 January 2023
 
 JSON         3 hrs 41 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.50 %
 Go           3 hrs 13 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.21 %
