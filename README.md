@@ -120,11 +120,11 @@ I am a digital health product owner, trainer, HL7 FHIR specialists with 8+ years
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 January 2023 - To: 20 February 2023
+From: 22 January 2023 - To: 21 February 2023
 
-Python           3 hrs 44 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.21 %
-Markdown         2 hrs 47 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.30 %
-Other            2 hrs 2 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
+Python           3 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░   23.47 %
+Markdown         2 hrs 32 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
+Other            2 hrs 2 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 %
 ```
 
 <!--END_SECTION:waka-->
