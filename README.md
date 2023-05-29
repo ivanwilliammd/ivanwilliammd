@@ -117,7 +117,7 @@ I am a digital health product owner, trainer, HL7 FHIR specialists with 8+ years
     - [IvanMD](https://onelink.to/ivanmd) - Medical Record & Teleconsultation App with Appointment System (Web Apps & Android)
     - [JournalReview](https://journalreview.ivanwilliamharsono.com) - Medical Journal Reading Appraisal Template & Note storing system
     - [Rising Star - House of Education and Music](https://risingstar.ivanwilliamharsono.com) - Tutoring Services Website and Student Management System
-    - [ECL XLSX Downloader](https://ivanmd-shrimp.streamlit.app/) - SNOMED-CT ECL to XLSX downloader using Public Ontoserver API (see disclaimer on page before using)
+    - [SNOMED-CT ECL XLSX Downloader](https://ivanmd-shrimp.streamlit.app/) - SNOMED-CT ECL to XLSX downloader using Public Ontoserver API (see disclaimer on page before using)
 
 \
 📊 **This Month I Spent My Time On:**
