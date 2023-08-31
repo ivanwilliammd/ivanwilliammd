@@ -117,8 +117,9 @@ I am a digital health product owner, trainer, HL7 FHIR specialists with 8+ years
     - [IvanMD](https://onelink.to/ivanmd) - Medical Record & Teleconsultation App with Appointment System (Web Apps & Android)
     - [JournalReview](https://journalreview.ivanwilliamharsono.com) - Medical Journal Reading Appraisal Template & Note storing system
     - [Rising Star - House of Education and Music](https://risingstar.ivanwilliamharsono.com) - Tutoring Services Website and Student Management System
-    - [SNOMED-CT ECL XLSX Downloader](https://ivanmd-shrimp.streamlit.app/) - SNOMED-CT ECL to XLSX downloader using Public Ontoserver API (see disclaimer on page before using)
-    - [FHIR SATUSEHAT Digital Tutorial](https://ivanmd-satusehat-tutorial.streamlit.app/) - JSON Generator to tutor SATUSEHAT resources implementation
+    - [SNOMED-CT ECL XLSX Downloader](https://urlqr.xyz/shrimp) - SNOMED-CT ECL to XLSX downloader using Public Ontoserver API (see disclaimer on page before using)
+    - [FHIR SATUSEHAT Digital Tutorial](https://urlqr.xyz/satusehat-tutorial) - FHIR JSON Generator to tutor SATUSEHAT resources implementation
+    - [Healthcare Facility Search](https://urlqr.xyz/sarana-search) - Healthcare facility search based on Sarana Information
 
 \
 📊 **This Month I Spent My Time On:**
