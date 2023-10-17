@@ -19,6 +19,7 @@ I am a digital health product owner, trainer, HL7 FHIR specialists with 5+ years
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
 
 - Exploratory Data Analysis & Automation : 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
