@@ -128,13 +128,13 @@ I am a digital health product owner, trainer, HL7 FHIR specialists with 5+ years
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2024 - To: 16 November 2024
+From: 18 October 2024 - To: 17 November 2024
 
-PHP              2 hrs 32 mins   ████████▓░░░░░░░░░░░░░░░░   34.42 %
-Blade Template   53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-Python           49 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
-Other            48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
-Text             42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+PHP              2 hrs 32 mins   ███████▓░░░░░░░░░░░░░░░░░   30.47 %
+Python           1 hr 41 mins    █████░░░░░░░░░░░░░░░░░░░░   20.27 %
+Blade Template   53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
+Other            48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
+Text             42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
 ```
 
 <!--END_SECTION:waka-->
