@@ -9,7 +9,7 @@
 
 
 ### Glad to see you here! 
-I am a digital health product owner, trainer, HL7 FHIR specialists with 5+ years of combined clinical, product, and technical experience. I majored both in medical doctor and computer science. As both medical doctor and computer scientist, I'm looking forward for high attention on how technology would benefit and bring positive impact to healthcare. 
+I am a digital health product owner, trainer, HL7 FHIR specialists with 5+ years of combined clinical, product, and technical experience. I majored both in medical doctor, biomedical science, and computer science. As both medical doctor, biomedical, and computer scientist, I'm looking forward for high attention on how technology would benefit and bring positive impact to healthcare. 
 
 
 #### I speak : ####
@@ -106,22 +106,26 @@ I am a digital health product owner, trainer, HL7 FHIR specialists with 5+ years
 \
 **Talking about Personal Stuffs:**
 - 🔭 I’m currently working as <i>Digital Health Technologist, Product Owner, Data Scientists, Medical Doctor, and Academic Tutor</i>.
-- 🔬 I'm a Biomedical Doctoral Students at [Faculty of Medicine, Universitas Indonesia](https://pdib.fk.ui.ac.id/).
 - ⚡ I graduated with a degree in : 
     - Master of Computer Science majoring in Data Science - [Faculty of Computer Science, Universitas Bina Nusantara](https://mti.binus.ac.id/) (2018-2019).
     - Medical Doctor - [Faculty of Medicine, Universitas Pelita Harapan](https://www.uph.edu/id/department/medicine/) (2013-2019).
-- 🌱 I’m currently nurture myself in Bioinformatics Data Science, Javascript based web programming, Multiplatform programming.
+    - Doctor of Biomedical Science - [Faculty of Medicine, Universitas Indonesia](https://pdib.fk.ui.ac.id/) (2021-2024).
+- 🌱 I’m currently nurture myself in Health informatics, Bioinformatics, Javascript based web programming, Multiplatform programming.
 - 👯 I’m looking to collaborate on Genomics and Proteomics.
 - 💬 My current research interests include Machine Learning and AI implementation in Health.
 - 📦 Check this out :
-    - [SATUSEHAT Integration Library](https://github.com/ivanwilliammd/satusehat-integration) - Open Source SATUSEHAT Integration Laravel Library
-    - [URLqr](https://urlqr.xyz) - Free URL Shortener with QR (without any ads, incl. number of clicks)
-    - [IvanMD](https://onelink.to/ivanmd) - Medical Record & Teleconsultation App with Appointment System (Web Apps & Android)
-    - [JournalReview](https://journalreview.ivanwilliamharsono.com) - Medical Journal Reading Appraisal Template & Note storing system
-    - [Rising Star - House of Education and Music](https://risingstar.ivanwilliamharsono.com) - Tutoring Services Website and Student Management System
-    - [SNOMED-CT ECL XLSX Downloader](https://urlqr.xyz/shrimp) - SNOMED-CT ECL to XLSX downloader using Public Ontoserver API (see disclaimer on page before using)
-    - [FHIR SATUSEHAT Digital Tutorial](https://urlqr.xyz/satusehat-tutorial) - FHIR JSON Generator to tutor SATUSEHAT resources implementation
-    - [Healthcare Facility Search](https://urlqr.xyz/sarana-search) - Healthcare facility search based on Sarana Information
+    - **Public Open Access Repository:**
+        - [SATUSEHAT Integration Library](https://github.com/ivanwilliammd/satusehat-integration) - Open Source SATUSEHAT Integration Laravel (PHP) Library using FHIR R4 Indonesia's Profile
+        - [IDeRare Pheno](https://github.com/ivanwilliammd/iderare-pheno) - Python open source phenotype analysis with FHIR and terminology support for ICD10, LOINC, SNOMED-CT, ORPHANET, OMIM, and HPO.
+        - [IDeRare](https://github.com/ivanwilliammd/IDeRare) - Open Source pipeline for automatically finding patient rare disease's mutation based on phenotype and genotype likelihood.
+        - [SNOMED-CT ECL XLSX Downloader](https://urlqr.xyz/shrimp) - SNOMED-CT ECL to XLSX downloader using Public Ontoserver API (see disclaimer on page before using)
+        - [FHIR SATUSEHAT Digital Tutorial](https://urlqr.xyz/satusehat-tutorial) - FHIR JSON Generator to tutor SATUSEHAT resources implementation
+        - [Healthcare Facility Search](https://urlqr.xyz/sarana-search) - Healthcare facility search based on Sarana Information
+        - [I3DR-Net](https://github.com/ivanwilliammd/I3DR-Net-Transfer-Learning) - I3D with RetinaNet implementation for 3D Lung Nodule Detection in CT Scan Image, Ranked #1 state of the art (SOTA) for AI-based 3D Lung Nodule Classification & Detection in LIDC-IDRI dataset
+    - **Private Repository :**
+        - [IvanMD](https://onelink.to/ivanmd) - Medical Record & Teleconsultation App with Appointment System (Web Apps & Android)
+        - [URLqr](https://urlqr.xyz) - Free URL Shortener with QR (without any ads, embedded analytics, number of clicks, and operating system)
+        - [Rising Star - House of Education and Music](https://risingstar.ivanwilliamharsono.com) - Tutoring Services Website and Student Management System
 
 \
 📊 **This Month I Spent My Time On:**
