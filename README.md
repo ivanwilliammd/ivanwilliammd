@@ -114,14 +114,17 @@ I am a digital health product owner, trainer, HL7 FHIR specialists with 5+ years
 - 👯 I’m looking to collaborate on Genomics and Proteomics.
 - 💬 My current research interests include Machine Learning and AI implementation in Health.
 - 📦 Check this out :
-    - **Public Open Access Repository:**
+    - **Public Open Access:**
         - [SATUSEHAT Integration Library](https://github.com/ivanwilliammd/satusehat-integration) - Open Source SATUSEHAT Integration Laravel (PHP) Library using FHIR R4 Indonesia's Profile
         - [IDeRare Pheno](https://github.com/ivanwilliammd/iderare-pheno) - Python open source phenotype analysis with FHIR and terminology support for ICD10, LOINC, SNOMED-CT, ORPHANET, OMIM, and HPO.
         - [IDeRare](https://github.com/ivanwilliammd/IDeRare) - Open Source pipeline for automatically finding patient rare disease's mutation based on phenotype and genotype likelihood.
+        - [I3DR-Net](https://github.com/ivanwilliammd/I3DR-Net-Transfer-Learning) - I3D with RetinaNet implementation for 3D Lung Nodule Detection in CT Scan Image, Ranked #1 state of the art (SOTA) for AI-based 3D Lung Nodule Classification & Detection in LIDC-IDRI dataset
+    - **Public health informatics and bioinformatics web application:**
         - [SNOMED-CT ECL XLSX Downloader](https://urlqr.xyz/shrimp) - SNOMED-CT ECL to XLSX downloader using Public Ontoserver API (see disclaimer on page before using)
         - [FHIR SATUSEHAT Digital Tutorial](https://urlqr.xyz/satusehat-tutorial) - FHIR JSON Generator to tutor SATUSEHAT resources implementation
         - [Healthcare Facility Search](https://urlqr.xyz/sarana-search) - Healthcare facility search based on Sarana Information
-        - [I3DR-Net](https://github.com/ivanwilliammd/I3DR-Net-Transfer-Learning) - I3D with RetinaNet implementation for 3D Lung Nodule Detection in CT Scan Image, Ranked #1 state of the art (SOTA) for AI-based 3D Lung Nodule Classification & Detection in LIDC-IDRI dataset
+        - [IDeRare Pheno - FHIR API](https://urlqr.xyz/iderare-fhir) - Implementation of IDeRare Pheno library using FastAPI for parsing and convert terminology to HPO.
+        - [IDeRare Pheno - Interactive Web Apps](https://urlqr.xyz/iderare-streamlit) - Implementation of IDeRare Pheno library as interactive web apps using Streamlit.
     - **Private Repository :**
         - [IvanMD](https://onelink.to/ivanmd) - Medical Record & Teleconsultation App with Appointment System (Web Apps & Android)
         - [URLqr](https://urlqr.xyz) - Free URL Shortener with QR (without any ads, embedded analytics, number of clicks, and operating system)
