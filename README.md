@@ -40,8 +40,6 @@ I am a digital health product owner, trainer, HL7 FHIR specialists with 5+ years
 ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-- Python Backend :
-![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=plastic&logo=fastapi&logoColor=white)
 - Python Web Application Framework :
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) >>
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
@@ -51,12 +49,13 @@ I am a digital health product owner, trainer, HL7 FHIR specialists with 5+ years
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white)
 - Microservice Backend Programming :
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=plastic&logo=fastapi&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
 - Package Delivery and Deployment: 
 ![Packagist](https://img.shields.io/badge/Packagist-6DA55F.svg?style=plastic&logo=packagist&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white)
 ![PyPi](https://img.shields.io/badge/pypi-%23ececec.svg?style=plastic&logo=pypi&logoColor=1f73b7)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 - Project, Product Management Tools : 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
