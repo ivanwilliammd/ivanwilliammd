@@ -156,4 +156,4 @@ SSH Key          13 mins         ▒░░░░░░░░░░░░░░�
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanwilliammd&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
 </p>
 
-![](https://github-profile-trophy.vercel.app/?username=ivanwilliammd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ivanwilliammd&column=6&no-bg=true&theme=flat)
