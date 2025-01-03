@@ -1,11 +1,11 @@
 ### Hi there I'm Ivan William Harsono 👋 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ivanwilliammd)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ivanwilliammd)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://ivanwilliammd.ivanwilliamharsono.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ivanwilliammd)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ivanwilliammd)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/ivanwilliammd/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ivan.harsono@ivanwilliamharsono.com)
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/628161934519)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://linktr.ee/ivanwilliamharsono)
 
 
 ### Glad to see you here! 
