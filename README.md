@@ -130,7 +130,7 @@ I am a digital health product owner, trainer, HL7 FHIR specialists with 5+ years
         - [IDeRare Pheno - Interactive Web Apps](https://urlqr.xyz/iderare-streamlit) - Implementation of IDeRare Pheno library as interactive web apps using Streamlit.
     - **Private Repository :**
         - [IvanMD](https://onelink.to/ivanmd) - Medical Record & Teleconsultation App with Appointment System (Web Apps & Android)
-        - [URLqr](https://urlqr.xyz) - Free URL Shortener with QR (without any ads, embedded analytics, number of clicks, and operating system)
+        - [URLqr](https://urlqr.xyz) - Free URL Shortener with QR (ads-free, with embedded analytics, number of clicks, and operating system)
         - [Rising Star - House of Education and Music](https://risingstar.ivanwilliamharsono.com) - Tutoring Services Website and Student Management System
 
 \
