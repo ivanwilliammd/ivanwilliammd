@@ -1,6 +1,6 @@
 ### Hi there I'm Ivan William Harsono 👋 
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ivanwilliammd)
+[![Linkedin Badge](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ivanwilliammd)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://ivanwilliammd.ivanwilliamharsono.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/ivanwilliammd)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/ivanwilliammd/)
@@ -27,7 +27,9 @@ I am a digital health product owner, trainer, HL7 FHIR specialists with 5+ years
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white)
-- Machine & Deep Learning : 
+- Machine & Deep Learning :
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=plastic&logo=huggingface&logoColor=000)
+![Langchain](https://img.shields.io/badge/langchain-1C3C3C??style=plastic&logo=langchain&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
@@ -40,47 +42,56 @@ I am a digital health product owner, trainer, HL7 FHIR specialists with 5+ years
 ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 - Python Web Application Framework :
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) >>
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white) >>
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
 ![ODOO](https://img.shields.io/badge/odoo-FF6C37.svg?style=plastic&logo=odoo&logoColor=white)
-- Android programming (Beginner) : 
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white)
 - Microservice Backend Programming :
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=plastic&logo=fastapi&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
-- Package Delivery and Deployment: 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+- Android programming (Beginner) : 
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white)
+![Play Store](https://img.shields.io/badge/Google_Play-414141?style=plastic&logo=google-play&logoColor=white)
+- Package Delivery and Deployment:
+![Composer](https://img.shields.io/badge/Composer-885630?style=plastic&logo=composer&logoColor=fff)
 ![Packagist](https://img.shields.io/badge/Packagist-6DA55F.svg?style=plastic&logo=packagist&logoColor=white)
 ![PyPi](https://img.shields.io/badge/pypi-%23ececec.svg?style=plastic&logo=pypi&logoColor=1f73b7)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 - Project, Product Management Tools : 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=plastic&logo=google-analytics&logoColor=white)
-![App Store Connect](https://img.shields.io/badge/App_Store_Connect-0D96F6?style=plastic&logo=app-store&logoColor=white)
-- Hosting service : 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white)
+- Analytics :
+![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-E37400?style=plastic&logo=google-analytics&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=Tableau&logoColor=white)
+![App Store Analytics](https://img.shields.io/badge/App_Store_Analytics-0D96F6?style=plastic&logo=app-store&logoColor=white)
+- Cloud : 
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=plastic&logo=render&logoColor=white
+)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)
+![Github Workflow](https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
-![Play Store](https://img.shields.io/badge/Google_Play-414141?style=plastic&logo=google-play&logoColor=white)
-![Google Collab](https://img.shields.io/badge/Google_Colab-F9AB00?style=plastic&logo=google-colab&logoColor=white)
 - Favorite IDE : 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=vsc&logoColor=white) > 
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=plastic&logo=sublime-text&logoColor=important)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white)
+![Google Collab](https://img.shields.io/badge/Google_Colab-F9AB00?style=plastic&logo=google-colab&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=plastic&logo=android-studio&logoColor=white)
-- Code on : ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white) > ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=macos&logoColor=F0F0F0) > ![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=plastic&logo=Pop!_OS&logoColor=white)
+- Code on : ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=plastic&logo=windows11&logoColor=white) > ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=macos&logoColor=F0F0F0) > ![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=plastic&logo=Pop!_OS&logoColor=white)
 - Basic UI/UX Design with Prototyping : 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-- Cloud Computing / Hosting : 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
-
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 
 #### On the way exploring : ####
 - Challenge / Data Source : 
@@ -88,11 +99,8 @@ I am a digital health product owner, trainer, HL7 FHIR specialists with 5+ years
 - NoSQL : 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 - Cloud Computing / Hosting : 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-web-services&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=plastic&logo=Replit&logoColor=white)
-- Javascript full-stack programming :
-![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 - Multiplatform Programming : 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white)
@@ -135,6 +143,9 @@ I am a digital health product owner, trainer, HL7 FHIR specialists with 5+ years
 
 \
 📊 **This Month I Spent My Time On:**
+
+Powered by ![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=plastic&logo=WakaTime&logoColor=white)
+
 <!--START_SECTION:waka-->
 
 ```txt
