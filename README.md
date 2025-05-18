@@ -166,7 +166,7 @@ I am a digital health product owner, trainer, HL7 FHIR specialists with 5+ years
         - [IDeRare Pheno](https://github.com/ivanwilliammd/iderare-pheno) - Python open source phenotype analysis with FHIR and terminology support for ICD10, LOINC, SNOMED-CT, ORPHANET, OMIM, and HPO.
         - [IDeRare](https://github.com/ivanwilliammd/IDeRare) - Open Source pipeline for automatically finding patient rare disease's mutation based on phenotype and genotype likelihood.
         - [I3DR-Net](https://github.com/ivanwilliammd/I3DR-Net-Transfer-Learning) - I3D with RetinaNet implementation for 3D Lung Nodule Detection in CT Scan Image, Ranked #1 state of the art (SOTA) for AI-based 3D Lung Nodule Classification & Detection in LIDC-IDRI dataset
-        - [Kode Saham BEI](https://urlqr.xyz/Kode_Saham_BEI) - Listed Data of Indonesia Stock Exchange (IDX) Information with fundamental statistics.
+        - [IDX Stocks Information](https://urlqr.xyz/Kode_Saham_BEI) - Listed Data of Indonesia Stock Exchange (IDX) Information with fundamental statistics.
         - [Indonesia Stock Dashboard](https://urlqr.xyz/Stocks_Dashboard) - Indonesia Stock Dashboard to ease up analytics for Indonesia's Stock.
     - **Public health informatics and bioinformatics web application:**
         - [SNOMED-CT ECL XLSX Downloader](https://urlqr.xyz/shrimp) - SNOMED-CT ECL to XLSX downloader using Public Ontoserver API (see disclaimer on page before using)
