@@ -187,7 +187,7 @@ Powered by ![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=plasti
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 May 2025 - To: 14 June 2025
+From: 16 May 2025 - To: 15 June 2025
 
 PHP              29 hrs 56 mins  ██████████▓░░░░░░░░░░░░░░   42.20 %
 Blade Template   23 hrs 59 mins  ████████▒░░░░░░░░░░░░░░░░   33.80 %
