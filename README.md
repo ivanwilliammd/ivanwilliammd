@@ -168,6 +168,7 @@ I am a digital health product owner, trainer, HL7 FHIR specialists with 5+ years
         - [I3DR-Net](https://github.com/ivanwilliammd/I3DR-Net-Transfer-Learning) - I3D with RetinaNet implementation for 3D Lung Nodule Detection in CT Scan Image, Ranked #1 state of the art (SOTA) for AI-based 3D Lung Nodule Classification & Detection in LIDC-IDRI dataset
         - [IDX Stocks Information](https://urlqr.xyz/Kode_Saham_BEI) - Listed Data of Indonesia Stock Exchange (IDX) Information with fundamental statistics.
         - [Indonesia Stock Dashboard](https://urlqr.xyz/Stocks_Dashboard) - Indonesia Stock Dashboard to ease up analytics for Indonesia's Stock.
+        - [Badminton Community Management System](https://urlqr.xyz/BadmintonCommunityManagement) - Badminton Community Management System built using Next.js!
     - **Public health informatics and bioinformatics web application:**
         - [SNOMED-CT ECL XLSX Downloader](https://urlqr.xyz/shrimp) - SNOMED-CT ECL to XLSX downloader using Public Ontoserver API (see disclaimer on page before using)
         - [FHIR SATUSEHAT Digital Tutorial](https://urlqr.xyz/satusehat-tutorial) - FHIR JSON Generator to tutor SATUSEHAT resources implementation
