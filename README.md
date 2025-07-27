@@ -188,13 +188,13 @@ Powered by ![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=plasti
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 June 2025 - To: 25 July 2025
+From: 26 June 2025 - To: 26 July 2025
 
-PHP                21 hrs 7 mins   █████████▒░░░░░░░░░░░░░░░   37.03 %
-Blade Template     8 hrs 36 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 %
-Vue.js             6 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
-TypeScript         4 hrs 38 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-JavaScript         4 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+PHP                21 hrs 45 mins  █████████░░░░░░░░░░░░░░░░   36.24 %
+Blade Template     8 hrs 43 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
+Vue.js             6 hrs 32 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
+JavaScript         5 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+TypeScript         4 hrs 38 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
 ```
 
 <!--END_SECTION:waka-->
