@@ -188,7 +188,7 @@ Powered by ![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=plasti
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2025 - To: 24 September 2025
+From: 26 August 2025 - To: 25 September 2025
 
 Python           15 hrs 20 mins  ██████░░░░░░░░░░░░░░░░░░░   23.87 %
 PHP              11 hrs 27 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.84 %
