@@ -188,13 +188,13 @@ Powered by ![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=plasti
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2025 - To: 29 January 2026
+From: 31 December 2025 - To: 30 January 2026
 
-TypeScript       27 hrs 39 mins  ██████████████░░░░░░░░░░░   56.38 %
-SQL              7 hrs 13 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
-Other            3 hrs 40 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
-PHP              3 hrs 38 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
-JSON             1 hr 55 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+TypeScript       27 hrs 56 mins  █████████████▓░░░░░░░░░░░   54.65 %
+SQL              7 hrs 13 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
+Other            4 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+PHP              3 hrs 38 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+JSON             1 hr 55 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
 ```
 
 <!--END_SECTION:waka-->
