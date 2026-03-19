@@ -152,7 +152,7 @@ I am a digital health product owner, trainer, HL7 FHIR specialists with 5+ years
 
 \
 **Talking about Personal Stuffs:**
-- 🔭 I’m currently working as <i>Digital Health Technologist, Product Owner, Data Scientists, Medical Doctor, and Academic Tutor</i>.
+- 🔭 I’m currently working as <i>Digital Health Consultant, Medical Informatician, Product Owner, Data Scientists, Medical Doctor, and Academic Tutor</i>.
 - ⚡ I graduated with a degree in: 
     - Master of Computer Science majoring in Data Science - [Faculty of Computer Science, Universitas Bina Nusantara](https://mti.binus.ac.id/) (2018-2019).
     - Medical Doctor - [Faculty of Medicine, Universitas Pelita Harapan](https://www.uph.edu/id/department/medicine/) (2013-2019).
@@ -169,6 +169,8 @@ I am a digital health product owner, trainer, HL7 FHIR specialists with 5+ years
         - [IDX Stocks Information](https://urlqr.xyz/Kode_Saham_BEI) - Listed Data of Indonesia Stock Exchange (IDX) Information with fundamental statistics.
         - [Indonesia Stock Dashboard](https://urlqr.xyz/Stocks_Dashboard) - Indonesia Stock Dashboard to ease up analytics for Indonesia's Stock.
         - [Badminton Community Management System](https://urlqr.xyz/BadmintonCommunityManagement) - Badminton Community Management System built using Next.js!
+        - [IVAI - Smart Multimodal AI Assistant](https://demo.ivai.app) - Personalized Smart AI Assistant demo use-case
+
     - **Public health informatics and bioinformatics web application:**
         - [SNOMED-CT ECL XLSX Downloader](https://urlqr.xyz/shrimp) - SNOMED-CT ECL to XLSX downloader using Public Ontoserver API (see disclaimer on page before using)
         - [FHIR SATUSEHAT Digital Tutorial](https://urlqr.xyz/satusehat-tutorial) - FHIR JSON Generator to tutor SATUSEHAT resources implementation
@@ -176,9 +178,10 @@ I am a digital health product owner, trainer, HL7 FHIR specialists with 5+ years
         - [IDeRare Pheno - FHIR API](https://urlqr.xyz/iderare-fhir) - Implementation of IDeRare Pheno library using FastAPI for parsing and convert terminology to HPO.
         - [IDeRare Pheno - Interactive Web Apps](https://urlqr.xyz/iderare-streamlit) - Implementation of IDeRare Pheno library as interactive web apps using Streamlit.
     - **Private Repository:**
-        - [IvanMD](https://onelink.to/ivanmd) - Medical Record & Teleconsultation App with Appointment System (Web Apps & Android)
+        - [IvanMD](https://onelink.to/ivanmd) - Medical Record & Teleconsultation App with Appointment System (Web Apps & Android) with [FastTrack Appointment Portal](https://dr.ivanwilliamharsono.com)
         - [URLqr](https://urlqr.xyz) - Private (invitation-based) URL Shortener with QR (ads-free, with embedded analytics, number of clicks, and operating system)
         - [Rising Star - House of Education and Music](https://risingstar.ivanwilliamharsono.com) - Tutoring Services Website and Student Management System
+        - [IVAI](https://ivai.app) - Custom AI Solution provider. See [demo use-case](https://demo.ivai.app) here.
 
 \
 📊 **This Month I Spent My Time On:**
