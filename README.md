@@ -265,10 +265,10 @@ Powered by ![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=plasti
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2026 - To: 06 April 2026
+From: 08 March 2026 - To: 07 April 2026
 
-JSON             7 hrs 51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
-Other            6 hrs 4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+JSON             7 hrs 53 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
+Other            6 hrs 3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
 Blade Template   5 hrs 46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
 PHP              5 hrs                 ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
 Bash             4 hrs 53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
