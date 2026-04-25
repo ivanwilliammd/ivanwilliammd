@@ -265,13 +265,13 @@ Powered by ![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=plasti
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2026 - To: 23 April 2026
+From: 25 March 2026 - To: 24 April 2026
 
-Other            6 hrs 19 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.01 %
-Bash             4 hrs 30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 %
-Python           3 hrs 41 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
-YAML             3 hrs 38 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
-Blade Template   2 hrs 24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
+Other            6 hrs 32 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.86 %
+Bash             4 hrs 40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 %
+Python           3 hrs 41 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
+YAML             3 hrs 38 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+TypeScript       3 hrs 11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
 ```
 
 <!--END_SECTION:waka-->
