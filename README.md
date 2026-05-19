@@ -265,13 +265,13 @@ Powered by ![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=plasti
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 April 2026 - To: 17 May 2026
+From: 18 April 2026 - To: 18 May 2026
 
-PHP              12 hrs 26 mins        ███████░░░░░░░░░░░░░░░░░░   28.16 %
-JSON             7 hrs 12 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
-Other            7 hrs 7 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
-TypeScript       6 hrs 40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 %
-Vue              2 hrs 53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+PHP              12 hrs 26 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.62 %
+JSON             7 hrs 12 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
+Other            7 hrs 7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 %
+TypeScript       6 hrs 40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
+Markdown         4 hrs 19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
 ```
 
 <!--END_SECTION:waka-->
