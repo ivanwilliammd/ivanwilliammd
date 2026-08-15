@@ -280,8 +280,8 @@ Python           12 mins               ▓░░░░░░░░░░░░�
 
 📈 **My GitHub Stats:**
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanwilliammd&show_icons=true&hide_border=true&include_all_commits=true&cache_seconds=1800&theme=default" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanwilliammd&hide_border=true&layout=compact&langs_count=10&cache_seconds=1800&theme=default"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=ivanwilliammd&show_icons=true&hide_border=true&include_all_commits=true&cache_seconds=1800&theme=default" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ivanwilliammd&hide_border=true&layout=compact&langs_count=10&cache_seconds=1800&theme=default"/>
 </p>
 
 ![](https://github-profile-trophy.vercel.app/?username=ivanwilliammd&column=6&no-bg=true&theme=flat&margin-w=4)
