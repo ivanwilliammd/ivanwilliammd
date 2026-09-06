@@ -265,13 +265,13 @@ Powered by ![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=plasti
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2026 - To: 04 September 2026
+From: 06 August 2026 - To: 05 September 2026
 
-JSON         3 hrs 6 mins          ████████████▒░░░░░░░░░░░░   49.53 %
-PHP          2 hrs 25 mins         █████████▓░░░░░░░░░░░░░░░   38.49 %
-Groovy       16 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
-Text         13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-Vue          6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+PHP          11 hrs 12 mins        ████████████▓░░░░░░░░░░░░   50.87 %
+SQL          3 hrs 29 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
+JSON         3 hrs 6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
+INI          1 hr 3 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+Markdown     1 hr 1 min            █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
 ```
 
 <!--END_SECTION:waka-->
