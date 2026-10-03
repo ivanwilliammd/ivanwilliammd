@@ -216,7 +216,7 @@ I bridge the gap between medicine and technology — with **5+ years** of combin
 
 | Project | Description |
 |---|---|
-| [SATUSEHAT Integration Library](https://github.com/ivanwilliammd/satusehat-integration) | Open Source SATUSEHAT Integration Laravel (PHP) Library using FHIR R4 Indonesia's Profile. Premium subscription with technical assistance also available: [FHIRvel-SS](https://github.com/ivanwilliammd/fhirvel-ss) |
+| [SATUSEHAT Integration SDK](https://transformer.ivanmd.id/satusehat-sdk) | Open Source SATUSEHAT Integration (PHP, Node.js, Python, Go) using FHIR R4 Indonesia's Profile. For paid consulting, technical support, and assistance please reach out to [IvanMD](https://ivanmd.id/contact?lang=id) |
 | [IDeRare Pheno](https://github.com/ivanwilliammd/iderare-pheno) | Python open source phenotype analysis with FHIR and terminology support for ICD10, LOINC, SNOMED-CT, ORPHANET, OMIM, and HPO |
 | [IDeRare](https://github.com/ivanwilliammd/IDeRare) | Open Source pipeline for automatically finding patient rare disease's mutation based on phenotype and genotype likelihood |
 | [I3DR-Net](https://github.com/ivanwilliammd/I3DR-Net-Transfer-Learning) | I3D with RetinaNet for 3D Lung Nodule Detection in CT Scan — **Ranked #1 SOTA** for AI-based 3D Lung Nodule Classification & Detection in LIDC-IDRI dataset |
@@ -243,7 +243,7 @@ I bridge the gap between medicine and technology — with **5+ years** of combin
 </details>
 
 <details>
-<summary>🔒 <b>Private Repository</b></summary>
+<summary>🔒 <b>Private / Paid Repository</b></summary>
 
 <br>
 
@@ -253,7 +253,7 @@ I bridge the gap between medicine and technology — with **5+ years** of combin
 | [URLqr, now IVAI Link](https://link.ivai.app) | Invitation-based URL Shortener with QR (ads-free, with embedded analytics, click counts, and OS tracking) |
 | [Rising Star - House of Education and Music](https://risingstar.ivanwilliamharsono.com) | Tutoring Services Website and Student Management System |
 | [IVAI](https://ivai.app) | Custom AI Solution provider — see [demo use-case](https://demo.ivai.app) |
-| [SmarTerm](https://terminology.ivanmd.id) | AI-powered terminology mapping |
+| [SmarTerm](https://terminology.ivanmd.id) | Context Aware AI-powered medical dictionary terminology mapping |
 
 </details>
 
