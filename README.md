@@ -220,9 +220,9 @@ I bridge the gap between medicine and technology — with **5+ years** of combin
 | [IDeRare Pheno](https://github.com/ivanwilliammd/iderare-pheno) | Python open source phenotype analysis with FHIR and terminology support for ICD10, LOINC, SNOMED-CT, ORPHANET, OMIM, and HPO |
 | [IDeRare](https://github.com/ivanwilliammd/IDeRare) | Open Source pipeline for automatically finding patient rare disease's mutation based on phenotype and genotype likelihood |
 | [I3DR-Net](https://github.com/ivanwilliammd/I3DR-Net-Transfer-Learning) | I3D with RetinaNet for 3D Lung Nodule Detection in CT Scan — **Ranked #1 SOTA** for AI-based 3D Lung Nodule Classification & Detection in LIDC-IDRI dataset |
-| [IDX Stocks Information](https://urlqr.xyz/Kode_Saham_BEI) | Listed Data of Indonesia Stock Exchange (IDX) with fundamental statistics |
-| [Indonesia Stock Dashboard](https://urlqr.xyz/Stocks_Dashboard) | Dashboard to ease up analytics for Indonesia's Stock |
-| [Badminton Community Management System](https://urlqr.xyz/BadmintonCommunityManagement) | Community Management System built using Next.js |
+| [IDX Stocks Information](https://link.ivai.app/Kode_Saham_BEI) | Listed Data of Indonesia Stock Exchange (IDX) with fundamental statistics |
+| [Indonesia Stock Dashboard](https://link.ivai.app/Stocks_Dashboard) | Dashboard to ease up analytics for Indonesia's Stock |
+| [Badminton Community Management System](https://link.ivai.app/BadmintonCommunityManagement) | Community Management System built using Next.js |
 | [IVAI - Smart Multimodal AI Assistant](https://demo.ivai.app) | Personalized Smart AI Assistant demo use-case |
 
 </details>
@@ -234,11 +234,11 @@ I bridge the gap between medicine and technology — with **5+ years** of combin
 
 | Project | Description |
 |---|---|
-| [SNOMED-CT ECL XLSX Downloader](https://urlqr.xyz/shrimp) | SNOMED-CT ECL to XLSX downloader using Public Ontoserver API |
-| [FHIR SATUSEHAT Digital Tutorial](https://urlqr.xyz/satusehat-tutorial) | FHIR JSON Generator to tutor SATUSEHAT resources implementation |
-| [Healthcare Facility Search](https://urlqr.xyz/sarana-search) | Healthcare facility search based on Sarana Information |
-| [IDeRare Pheno - FHIR API](https://urlqr.xyz/iderare-fhir) | IDeRare Pheno via FastAPI for parsing and converting terminology to HPO |
-| [IDeRare Pheno - Interactive Web Apps](https://urlqr.xyz/iderare-streamlit) | IDeRare Pheno as interactive web apps using Streamlit |
+| [SNOMED-CT ECL XLSX Downloader](https://link.ivai.app/shrimp) | SNOMED-CT ECL to XLSX downloader using Public Ontoserver API |
+| [FHIR SATUSEHAT Digital Tutorial](https://link.ivai.app/satusehat-tutorial) | FHIR JSON Generator to tutor SATUSEHAT resources implementation |
+| [Healthcare Facility Search](https://link.ivai.app/sarana-search) | Healthcare facility search based on Sarana Information |
+| [IDeRare Pheno - FHIR API](https://link.ivai.app/iderare-fhir) | IDeRare Pheno via FastAPI for parsing and converting terminology to HPO |
+| [IDeRare Pheno - Interactive Web Apps](https://link.ivai.app/iderare-streamlit) | IDeRare Pheno as interactive web apps using Streamlit |
 
 </details>
 
@@ -250,9 +250,10 @@ I bridge the gap between medicine and technology — with **5+ years** of combin
 | Project | Description |
 |---|---|
 | [IvanMD](https://onelink.to/ivanmd) | Medical Record & Teleconsultation App with Appointment System (Web & Android) + [FastTrack Appointment Portal](https://dr.ivanwilliamharsono.com) |
-| [URLqr](https://urlqr.xyz) | Invitation-based URL Shortener with QR (ads-free, with embedded analytics, click counts, and OS tracking) |
+| [URLqr, now IVAI Link](https://link.ivai.app) | Invitation-based URL Shortener with QR (ads-free, with embedded analytics, click counts, and OS tracking) |
 | [Rising Star - House of Education and Music](https://risingstar.ivanwilliamharsono.com) | Tutoring Services Website and Student Management System |
 | [IVAI](https://ivai.app) | Custom AI Solution provider — see [demo use-case](https://demo.ivai.app) |
+| [SmarTerm](https://terminology.ivanmd.id) | AI-powered terminology mapping |
 
 </details>
 
