@@ -70,6 +70,47 @@ def graphql(query: str, variables: dict) -> dict:
     return api("/graphql", "POST", {"query": query, "variables": variables})
 
 
+def api_response(path: str):
+    """GET mentah yang mengembalikan response object — perlu untuk membaca header Link."""
+    req = urllib.request.Request("https://api.github.com" + path)
+    req.add_header("Accept", "application/vnd.github+json")
+    req.add_header("User-Agent", "ivanwilliammd-profile-metrics")
+    if TOKEN:
+        req.add_header("Authorization", "Bearer " + TOKEN)
+    return urllib.request.urlopen(req, timeout=45)
+
+
+def list_owned_repos() -> list[dict]:
+    """Repo yang boleh dibaca token ini. Dengan PAT, repo privat ikut terbaca."""
+    repos: list[dict] = []
+    for page in range(1, 6):
+        try:
+            batch = api(f"/user/repos?affiliation=owner,organization&visibility=all&per_page=100&page={page}")
+        except Exception:
+            break
+        if not isinstance(batch, list) or not batch:
+            break
+        repos += batch
+        if len(batch) < 100:
+            break
+    return [r for r in repos if not r.get("fork") and r.get("full_name") != f"{OWNER}/{OWNER}"]
+
+
+def count_commits(full_name: str, since_iso: str) -> int:
+    """Commit oleh OWNER sejak tanggal tertentu; jumlahnya dibaca dari header Link."""
+    q = urllib.parse.urlencode({"author": OWNER, "since": since_iso, "per_page": 1})
+    try:
+        with api_response(f"/repos/{full_name}/commits?{q}") as resp:
+            body = json.loads(resp.read().decode() or "[]")
+            link = resp.headers.get("Link") or ""
+    except Exception:
+        return 0
+    if not body:
+        return 0
+    m = re.search(r'[?&]page=(\d+)>; rel="last"', link)
+    return int(m.group(1)) if m else 1
+
+
 def collect_activity(days: int = 30) -> dict:
     """Commit/PR/review/hari aktif dari contribution graph — angka resmi GitHub."""
     until = dt.datetime.now(dt.timezone.utc)
@@ -113,6 +154,21 @@ def collect_activity(days: int = 30) -> dict:
     repos = [r for r in repos if r["name"] != f"{OWNER}/{OWNER}"]
     repos.sort(key=lambda x: -x["commits"])
 
+    # GitHub tidak mengirim nama repo privat lewat contributionsCollection, jadi
+    # hitungan per repo diambil langsung. Butuh PAT; tanpa itu daftar tetap publik.
+    computed: list[dict] = []
+    try:
+        since_iso = since.isoformat().replace("+00:00", "Z")
+        for item in list_owned_repos():
+            n = count_commits(item["full_name"], since_iso)
+            if n:
+                computed.append({"name": item["full_name"], "private": bool(item["private"]), "commits": n})
+    except Exception:
+        computed = []
+    if computed:
+        repos = computed
+        repos.sort(key=lambda x: -x["commits"])
+
     # Nama repo privat TIDAK pernah ditulis: README profil ini publik. Yang tampil
     # hanya jumlah repo dan total commit-nya.
     private_count = sum(1 for r in repos if r["private"])
@@ -141,8 +197,10 @@ def collect_activity(days: int = 30) -> dict:
         "private_commits": private_commits,
         "merged": merged,
         "active_days": min(days_active, days),
-        "repos": public_repos,
-        "touched": len(public_repos) + private_count,
+        # Semua repo (privat ikut) supaya bar dan bahasa menghitung kerja nyata;
+        # namanya disamarkan saat render.
+        "repos": repos,
+        "touched": len(repos),
     }
 
 
@@ -200,12 +258,23 @@ def render(activity: dict, langs: list[tuple[str, int]], services: list[tuple[st
     ]
 
     if activity["repos"]:
-        rows += ["", "**Where the work landed**", "", "```"]
-        top = activity["repos"][:8]
-        biggest = top[0]["commits"] or 1
-        for r in top:
-            rows.append(f"{r['name'].split('/')[-1]:<34} {r['commits']:>4}  {bar(r['commits'], biggest)}")
-        rows.append("```")
+        rows += ["", "**Where the work landed**"]
+        private = [r for r in activity["repos"] if r["private"]][:5]
+        public = [r for r in activity["repos"] if not r["private"]][:5]
+
+        def block(title: str, items: list[dict], masked: bool) -> list[str]:
+            if not items:
+                return []
+            out = ["", f"*{title}*", "", "```"]
+            biggest = items[0]["commits"] or 1
+            for i, r in enumerate(items, 1):
+                label = f"private repo #{i}" if masked else r["name"].split("/")[-1]
+                out.append(f"{label:<34} {r['commits']:>4}  {bar(r['commits'], biggest)}")
+            out.append("```")
+            return out
+
+        rows += block("Private — names withheld", private, True)
+        rows += block("Public", public, False)
 
     if activity.get("private_repos"):
         rows += [
