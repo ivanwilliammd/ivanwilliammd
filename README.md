@@ -101,16 +101,17 @@ shipped work rose. This block therefore measures **what landed** — commits, pu
 repositories touched — and whether the services behind them are answering right now.
 
 <!--METRICS:START-->
-**Window:** last 30 days · updated 2026-10-29 13:30 UTC
+**Window:** last 30 days · updated 2026-10-29 14:28 UTC
 
 | Shipped | Count |
 |---|---:|
-| Commits | **52** |
-| Pull requests opened | **0** |
-| Pull requests merged | **0** |
+| Commits | **1285** |
+| Pull requests opened | **12** |
+| Pull requests merged | **11** |
 | Reviews given | **0** |
 | Active days | **30/30** |
-| Repositories touched | **4** |
+| Private contributions | **0** (names withheld) |
+| Repositories touched | **32** |
 
 **Where the work landed**
 
@@ -118,8 +119,11 @@ repositories touched — and whether the services behind them are answering righ
 satusehat-integration                12  ██████████████████
 satusehat-integration-node            3  ████░░░░░░░░░░░░░░
 satusehat-integration-python          2  ███░░░░░░░░░░░░░░░
+ivanwilliammd.github.io               2  ███░░░░░░░░░░░░░░░
 satusehat-integration-go              1  ██░░░░░░░░░░░░░░░░
 ```
+
+27 private repositories · 1229 commits (names withheld)
 
 **Languages by bytes in those repositories**
 
@@ -134,16 +138,16 @@ Go           ████░░░░░░░░░░░░░░    0.31 MB
 
 | Service | Code | Latency |
 |---|---:|---:|
-| Portfolio site | OK | 981 ms |
-| IVAI | OK | 1047 ms |
-| IVAI Link | OK | 1056 ms |
-| SmarTerm | OK | 1332 ms |
-| SmartClaim | OK | 961 ms |
-| WISH | OK | 405 ms |
-| Clinix | OK | 1267 ms |
-| SPECTRA | OK | 1496 ms |
-| Pay | OK | 2883 ms |
-| IvanMD Identity | OK | 2281 ms |
+| Portfolio site | OK | 1123 ms |
+| IVAI | OK | 889 ms |
+| IVAI Link | OK | 899 ms |
+| SmarTerm | OK | 1411 ms |
+| SmartClaim | OK | 1124 ms |
+| WISH | OK | 426 ms |
+| Clinix | OK | 1349 ms |
+| SPECTRA | OK | 1670 ms |
+| Pay | OK | 2816 ms |
+| IvanMD Identity | OK | 2233 ms |
 
 <sub>Measured from the GitHub API and real HTTP responses — what shipped, not how long an editor was open. Refreshed daily by [`.github/workflows/metrics.yml`](.github/workflows/metrics.yml).</sub>
 <!--METRICS:END-->
