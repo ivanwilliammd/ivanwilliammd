@@ -195,6 +195,7 @@ def render(activity: dict, langs: list[tuple[str, int]], services: list[tuple[st
         f"| Pull requests merged | **{merged}** |",
         f"| Reviews given | **{activity['reviews']}** |",
         f"| Active days | **{activity['active_days']}/{w}** |",
+        f"| Private contributions | **{activity['private']}** (names withheld) |",
         f"| Repositories touched | **{activity.get('touched', len(activity['repos']))}** |",
     ]
 
