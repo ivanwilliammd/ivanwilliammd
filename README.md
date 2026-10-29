@@ -1,288 +1,173 @@
-### Hi there, I'm Ivan William Harsono 👋
+<div align="center">
 
-[![Linkedin Badge](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ivanwilliammd)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://ivanwilliammd.ivanwilliamharsono.com)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/ivanwilliammd)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/ivanwilliammd/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ivan.harsono@ivanwilliamharsono.com)
-[![Linktree Badge](https://img.shields.io/badge/linktree-43E55E?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/ivanwilliamharsono)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Ivan-Harsono)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=TMuoV-AAAAAJ)
+# Ivan William Harsono
 
----
+**MD · MCS · PhD · CPHIMS · FISQua**
 
-### 🙋 Glad to see you here!
+Clinical pathologist in training at FKUI–RSCM · health-data infrastructure · FHIR & clinical terminology · clinical AI
 
-> 👨‍⚕️ **Medical Doctor** · 🧬 **Biomedical Scientist** · 💻 **Computer Scientist** · 🏥 **Digital Health Product Owner** · 🔗 **HL7 FHIR Specialist**
+[![Website](https://img.shields.io/badge/ivanwilliamharsono.com-111?style=flat-square&logo=googlechrome&logoColor=white)](https://ivanwilliamharsono.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanwilliammd/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=TMuoV-AAAAAJ)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ivan-Harsono)
+[![XERJ Corpus Hub](https://hub.xerj.org/contributors/ivanwilliammd/badge.svg)](https://hub.xerj.org/contributors/ivanwilliammd)
+[![Email](https://img.shields.io/badge/email-ivanwilliam.md@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ivanwilliam.md@gmail.com)
 
-I bridge the gap between medicine and technology — with **5+ years** of combined clinical, product, and technical experience. My mission is to harness technology to bring meaningful, positive impact to healthcare.
+</div>
 
-<details>
-<summary>⚡ <b>More about me</b> (click to expand)</summary>
+I build the plumbing that health systems quietly depend on: the interoperability layer between hospital
+systems and the national platform, the terminology that makes two systems mean the same thing, and the
+checks that stop bad data before it becomes a rejected claim or a wrong result. Medicine gives me the
+domain; computer science gives me the tools.
 
-<br>
-
-- 🔭 I'm currently working as *Digital Health Consultant, Medical Informatician, Product Owner, Data Scientist, Medical Doctor, and Academic Tutor*.
-- 🎓 I graduated with degrees in:
-    - **Doctor of Biomedical Science** — [Faculty of Medicine, Universitas Indonesia](https://pdib.fk.ui.ac.id/) (2021–2024)
-    - **Medical Doctor** — [Faculty of Medicine, Universitas Pelita Harapan](https://www.uph.edu/id/department/medicine/) (2013–2019)
-    - **Master of Computer Science** (Data Science) — [Faculty of Computer Science, Universitas Bina Nusantara](https://mti.binus.ac.id/) (2018–2019)
-- 🌱 Currently nurturing myself in: Health Informatics, Bioinformatics, JavaScript-based Web Programming, and Multiplatform Programming.
-- 👯 Looking to collaborate on: **Genomics** and **Proteomics**.
-- 💬 Current research interests: **Machine Learning and AI implementation in Health**.
-
-</details>
+What I care about is **shipped and verifiable** — a library running in a hospital, a service answering at
+3 a.m., a paper with a DOI. If it has not run outside my laptop, it is not finished.
 
 ---
 
-### 🛠️ Tech Stack
+## What I work on
 
-<details>
-<summary>💬 <b>Programming Languages</b></summary>
+**Interoperability that hospitals actually run.** Product manager for SATUSEHAT DTO standardisation at
+Indonesia's Ministry of Health (2022–2023), and author of the open-source
+[SATUSEHAT integration library](https://github.com/ivanwilliammd/satusehat-integration) — PHP, Node.js,
+Python and Go, MIT-licensed, for EMR teams who would otherwise hand-write FHIR JSON.
 
-<br>
+**Terminology as infrastructure.** [SmarTerm](https://terminology.ivanmd.id) puts ICD-10, ICD-9-CM,
+LOINC, SNOMED CT, KFA and KPTL v1.7 into one search-and-mapping engine, shared by every service in the
+ecosystem instead of copied per app.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-003545?style=plastic&logo=sql&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=fff)
-![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
-![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=plastic&logo=yaml&logoColor=fff)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white)
+**Clinical AI with a safety rail.** [SmartClaim](https://claim.ivanmd.id) reads an episode file and
+checks whether diagnosis, procedure and financing codes agree *before* the claim is submitted — not
+after it bounces. IvanMD's LLM decision support and the WISH receipt assistants follow the same rule:
+the model proposes, deterministic rules and the clinician decide.
 
-</details>
-
-<details>
-<summary>🗄️ <b>Database & Data Warehouse</b></summary>
-
-<br>
-
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
-
-</details>
-
-<details>
-<summary>📊 <b>Data Analysis, Machine Learning & AI</b></summary>
-
-<br>
-
-**Exploratory Data Analysis & Automation:**
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white)
-
-**Machine & Deep Learning:**
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=plastic&logo=huggingface&logoColor=000)
-![Langchain](https://img.shields.io/badge/langchain-1C3C3C??style=plastic&logo=langchain&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white)
-
-</details>
-
-<details>
-<summary>🌐 <b>Web & Backend Development</b></summary>
-
-<br>
-
-**Full Stack Web:**
-![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/livewire-4e56a6?style=plastic&logo=livewire&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
-![Axios](https://img.shields.io/badge/axios-671ddf?&style=plastic&logo=axios&logoColor=white)
-
-**Python Web Frameworks:**
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
-![ODOO](https://img.shields.io/badge/odoo-FF6C37.svg?style=plastic&logo=odoo&logoColor=white)
-
-**Microservice & Backend:**
-![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=plastic&logo=fastapi&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-
-**Android (Beginner):**
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white)
-![Play Store](https://img.shields.io/badge/Google_Play-414141?style=plastic&logo=google-play&logoColor=white)
-
-</details>
-
-<details>
-<summary>☁️ <b>DevOps, Cloud & Tooling</b></summary>
-
-<br>
-
-**Package Delivery & Deployment:**
-![Composer](https://img.shields.io/badge/Composer-885630?style=plastic&logo=composer&logoColor=fff)
-![Packagist](https://img.shields.io/badge/Packagist-6DA55F.svg?style=plastic&logo=packagist&logoColor=white)
-![PyPi](https://img.shields.io/badge/pypi-%23ececec.svg?style=plastic&logo=pypi&logoColor=1f73b7)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=plastic&logo=yarn&logoColor=fff)
-
-**Virtual Environment & Container:**
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-
-**Cloud:**
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=plastic&logo=render&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)
-![Github Workflow](https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
-
-**Project Management & Version Control:**
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=plastic&logo=gitlab&logoColor=fff)
-
-</details>
-
-<details>
-<summary>🎨 <b>Analytics, Design & Environment</b></summary>
-
-<br>
-
-**Analytics:**
-![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-E37400?style=plastic&logo=google-analytics&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=Tableau&logoColor=white)
-![App Store Analytics](https://img.shields.io/badge/App_Store_Analytics-0D96F6?style=plastic&logo=app-store&logoColor=white)
-
-**Favorite IDE:**
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=vsc&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=plastic&logo=sublime-text&logoColor=important)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white)
-![Google Collab](https://img.shields.io/badge/Google_Colab-F9AB00?style=plastic&logo=google-colab&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=plastic&logo=android-studio&logoColor=white)
-
-**Code on:**
-![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=plastic&logo=windows11&logoColor=white)
-![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=macos&logoColor=F0F0F0)
-![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=plastic&logo=Pop!_OS&logoColor=white)
-
-**Basic UI/UX Design & Prototyping:**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-
-</details>
-
-<details>
-<summary>🚀 <b>Currently Exploring</b></summary>
-
-<br>
-
-- **Challenge / Data Source:** ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=plastic&logo=kaggle&logoColor=white)
-- **NoSQL:** ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-- **Cloud Computing / Hosting:** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-web-services&logoColor=white) ![Replit](https://img.shields.io/badge/Replit-DD1200?style=plastic&logo=Replit&logoColor=white)
-- **Multiplatform Programming:** ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-- **Container Orchestration:** ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
-- **Favorite References:** ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=plastic&logo=Udemy&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=plastic&logo=Coursera&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=plastic&logo=freecodecamp&logoColor=green) ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=plastic&logo=geeksforgeeks&logoColor=35914c)
-
-</details>
+**Diagnostics and laboratory informatics.** As a clinical pathology resident I read haematology,
+chemistry, immunology and molecular results all day, which is why the software I write for laboratories
+starts from the report rather than from the schema.
 
 ---
 
-### 📦 Projects
+## Selected work
 
-<details>
-<summary>🔓 <b>Public Open Access</b></summary>
+| Project | What it does | Link |
+|---|---|---|
+| **SmartClaim** | Claim-integrity checks (ICD-10 / ICD-9-CM / INA-CBG) on episode files before submission | [claim.ivanmd.id](https://claim.ivanmd.id) |
+| **SmarTerm** | Shared terminology service: ICD-10, ICD-9-CM, LOINC, SNOMED CT, KFA, KPTL | [terminology.ivanmd.id](https://terminology.ivanmd.id) |
+| **SATUSEHAT SDK** | FHIR R4 payload builders + OAuth client + durable queue, four languages | [PHP](https://github.com/ivanwilliammd/satusehat-integration) · [Node](https://github.com/ivanwilliammd/satusehat-integration-node) · [Python](https://github.com/ivanwilliammd/satusehat-integration-python) · [Go](https://github.com/ivanwilliammd/satusehat-integration-go) |
+| **IvanMD** | Medical record, teleconsultation and appointment system (web + Android) | [ivanmd.id](https://ivanmd.id) |
+| **WISH** | Receipt photo → structured expense; one dataset feeding three AI assistants | [wish.ivai.app](https://wish.ivai.app) |
+| **IDeRare** | Phenotype + exome pipeline for germline rare-disease diagnosis | [repo](https://github.com/ivanwilliammd/IDeRare) · [JAMIA Open](https://doi.org/10.1093/jamiaopen/ooae052) |
+| **I3DR-Net** | 3D lung-nodule detection on LIDC-IDRI with transfer-learning RetinaNet | [repo](https://github.com/ivanwilliammd/I3DR-Net-Transfer-Learning) · [paper](https://doi.org/10.1016/j.jksuci.2020.03.013) |
+| **SPECTRA** | Multitenant stock / ERP / POS / CRM — specification complete, build in progress | [spectra.meditechku.com](https://spectra.meditechku.com) |
+| **Clinix** | Clinical-pathology portfolio and laboratory reporting workflow | [clinix.meditechku.com](https://clinix.meditechku.com) |
+| **IVAI Link** | Invitation-only URL shortener with QR and click analytics | [link.ivai.app](https://link.ivai.app) |
 
-<br>
-
-| Project | Description |
-|---|---|
-| [SATUSEHAT Integration SDK](https://transformer.ivanmd.id/satusehat-sdk) | Open Source SATUSEHAT Integration (PHP, Node.js, Python, Go) using FHIR R4 Indonesia's Profile. For paid consulting, technical support, and assistance please reach out to [IvanMD](https://ivanmd.id/contact?lang=id) |
-| [IDeRare Pheno](https://github.com/ivanwilliammd/iderare-pheno) | Python open source phenotype analysis with FHIR and terminology support for ICD10, LOINC, SNOMED-CT, ORPHANET, OMIM, and HPO |
-| [IDeRare](https://github.com/ivanwilliammd/IDeRare) | Open Source pipeline for automatically finding patient rare disease's mutation based on phenotype and genotype likelihood |
-| [I3DR-Net](https://github.com/ivanwilliammd/I3DR-Net-Transfer-Learning) | I3D with RetinaNet for 3D Lung Nodule Detection in CT Scan — **Ranked #1 SOTA** for AI-based 3D Lung Nodule Classification & Detection in LIDC-IDRI dataset |
-| [IDX Stocks Information](https://link.ivai.app/Kode_Saham_BEI) | Listed Data of Indonesia Stock Exchange (IDX) with fundamental statistics |
-| [Indonesia Stock Dashboard](https://link.ivai.app/Stocks_Dashboard) | Dashboard to ease up analytics for Indonesia's Stock |
-| [Badminton Community Management System](https://link.ivai.app/BadmintonCommunityManagement) | Community Management System built using Next.js |
-| [IVAI - Smart Multimodal AI Assistant](https://demo.ivai.app) | Personalized Smart AI Assistant demo use-case |
-
-</details>
-
-<details>
-<summary>🏥 <b>Public Health Informatics & Bioinformatics Web Apps</b></summary>
-
-<br>
-
-| Project | Description |
-|---|---|
-| [SNOMED-CT ECL XLSX Downloader](https://link.ivai.app/shrimp) | SNOMED-CT ECL to XLSX downloader using Public Ontoserver API |
-| [FHIR SATUSEHAT Digital Tutorial](https://link.ivai.app/satusehat-tutorial) | FHIR JSON Generator to tutor SATUSEHAT resources implementation |
-| [Healthcare Facility Search](https://link.ivai.app/sarana-search) | Healthcare facility search based on Sarana Information |
-| [IDeRare Pheno - FHIR API](https://link.ivai.app/iderare-fhir) | IDeRare Pheno via FastAPI for parsing and converting terminology to HPO |
-| [IDeRare Pheno - Interactive Web Apps](https://link.ivai.app/iderare-streamlit) | IDeRare Pheno as interactive web apps using Streamlit |
-
-</details>
-
-<details>
-<summary>🔒 <b>Private / Paid Repository</b></summary>
-
-<br>
-
-| Project | Description |
-|---|---|
-| [IvanMD](https://onelink.to/ivanmd) | Medical Record & Teleconsultation App with Appointment System (Web & Android) + [FastTrack Appointment Portal](https://dr.ivanwilliamharsono.com) |
-| [URLqr, now IVAI Link](https://link.ivai.app) | Invitation-based URL Shortener with QR (ads-free, with embedded analytics, click counts, and OS tracking) |
-| [Rising Star - House of Education and Music](https://risingstar.ivanwilliamharsono.com) | Tutoring Services Website and Student Management System |
-| [IVAI](https://ivai.app) | Custom AI Solution provider — see [demo use-case](https://demo.ivai.app) |
-| [SmarTerm](https://terminology.ivanmd.id) | Context Aware AI-powered medical dictionary terminology mapping |
-
-</details>
+The full list — 22 projects back to 2019 — lives on [my portfolio site](https://ivanwilliamharsono.com).
 
 ---
 
-📊 **This Month I Spent My Time On:**
+## Output telemetry
 
-Powered by ![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=plastic&logo=WakaTime&logoColor=white)
+Most profile READMEs measure editor time. That number stopped being honest once agents started writing
+code alongside me: hours went down while shipped work went up. So this block measures **what landed** —
+commits, pull requests, reviews, repositories touched — and whether the services behind them are
+actually answering right now.
 
-<!--START_SECTION:waka-->
+<!--METRICS:START-->
+**Window:** last 30 days · updated 2026-10-29 13:29 UTC
 
-```txt
-From: 27 September 2026 - To: 27 October 2026
+| Shipped | Count |
+|---|---:|
+| Commits | **51** |
+| Pull requests opened | **0** |
+| Pull requests merged | **0** |
+| Reviews given | **0** |
+| Active days | **30/30** |
+| Repositories touched | **4** |
 
-PHP        6 hrs 16 mins         █████████████████▒░░░░░░░   69.85 %
-JSON       1 hr 22 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
-Bash       25 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-Markdown   25 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-INI        21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+**Where the work landed**
+
+```
+satusehat-integration                12  ██████████████████
+satusehat-integration-node            3  ████░░░░░░░░░░░░░░
+satusehat-integration-python          2  ███░░░░░░░░░░░░░░░
+satusehat-integration-go              1  ██░░░░░░░░░░░░░░░░
 ```
 
-<!--END_SECTION:waka-->
+**Languages by bytes in those repositories**
+
+```
+PHP          ██████████████████    1.57 MB
+Python       █████░░░░░░░░░░░░░    0.44 MB
+TypeScript   ████░░░░░░░░░░░░░░    0.39 MB
+Go           ████░░░░░░░░░░░░░░    0.31 MB
+```
+
+**Live services** (HTTP code · latency, checked now)
+
+| Service | Code | Latency |
+|---|---:|---:|
+| Portfolio site | OK | 150 ms |
+| IVAI | OK | 140 ms |
+| IVAI Link | OK | 89 ms |
+| SmarTerm | OK | 319 ms |
+| SmartClaim | OK | 234 ms |
+| WISH | OK | 78 ms |
+| Clinix | OK | 298 ms |
+| SPECTRA | OK | 899 ms |
+| Pay | OK | 406 ms |
+| IvanMD Identity | OK | 377 ms |
+
+<sub>Measured from the GitHub API and real HTTP responses — what shipped, not how long an editor was open. Refreshed daily by [`.github/workflows/metrics.yml`](.github/workflows/metrics.yml).</sub>
+<!--METRICS:END-->
 
 ---
 
-📈 **My GitHub Stats:**
-<p>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=ivanwilliammd&show_icons=true&hide_border=true&include_all_commits=true&cache_seconds=1800&theme=default" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ivanwilliammd&hide_border=true&layout=compact&langs_count=10&cache_seconds=1800&theme=default"/>
-</p>
+## Research
 
-![](https://github-profile-trophy.vercel.app/?username=ivanwilliammd&column=6&no-bg=true&theme=flat&margin-w=4)
+Six first-author papers, from a case report in medical school to a Q1 methods paper:
+
+- **IDeRare**: lightweight open-source phenotype and exome analysis pipeline for germline rare disease diagnosis — *JAMIA Open* 7(2), 2024 · [doi](https://doi.org/10.1093/jamiaopen/ooae052)
+- Clinical phenotype and trio whole-exome sequencing data in glycogen storage disease IV — *Data in Brief*, 2024 · [doi](https://doi.org/10.1016/j.dib.2024.111231)
+- Disease modelling advances in inborn errors of metabolism — *International Medical Journal* 31(6), 2024
+- Lung nodule detection and classification from thorax CT using RetinaNet with transfer learning — *J. King Saud Univ. Computer & Information Sciences*, 2020 · [doi](https://doi.org/10.1016/j.jksuci.2020.03.013)
+- Lung nodule texture detection and classification using 3D CNN — *CommIT Journal* 13(2), 2019 · [doi](https://doi.org/10.21512/commit.v13i2.5995)
+- The importance of immunohistochemical analysis in silent pituitary adenoma — *MEDICINUS* 6(3), 2017 · [doi](https://doi.org/10.19166/med.v6i3.1150)
+
+---
+
+## How I build
+
+<details>
+<summary><b>Stack and conventions</b> (click to expand)</summary>
+
+<br>
+
+**Domain** — HL7 FHIR R4, SATUSEHAT, ICD-10 / ICD-9-CM / INA-CBG, SNOMED CT, LOINC, KFA, KPTL, HPO, OMIM, ORPHA, OMOP, DICOM.
+
+**Backend** — PHP 8 / Laravel, Python (FastAPI, Django, Streamlit), Node.js, Go; PostgreSQL, MySQL/MariaDB, SQLite, Redis; Passport/OIDC, Sanctum.
+
+**Frontend** — Next.js, Vue 3 + Inertia, React, Tailwind, Vite.
+
+**Data & AI** — pandas, scikit-learn, PyTorch/Keras, LangChain, RAG, prompt engineering, n8n and RPA.
+
+**Infrastructure** — Docker, GitHub Actions, Vercel, Cloudflare, aaPanel; zero-build deploys where the
+server may only `git pull`.
+
+**Conventions I hold to** — code symbols in English, UI text in Indonesian; every change carries a test
+whose numbers are quoted before and after; a feature is done when it can be triggered through the API,
+not only through a dashboard.
+
+</details>
+
+---
+
+<div align="center">
+
+**Open to collaboration on FHIR and terminology infrastructure, clinical decision support, and
+laboratory informatics.** The fastest way to reach me is [email](mailto:ivanwilliam.md@gmail.com) or
+[LinkedIn](https://www.linkedin.com/in/ivanwilliammd/).
+
+<sub>© 2019–2026 Ivan William Harsono · Founder of <a href="https://meditechku.com">PT Meditech Konsulindo Utama</a> · <a href="https://ivai.app">IVAI</a></sub>
+
+</div>

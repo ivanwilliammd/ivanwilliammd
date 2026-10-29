@@ -1,0 +1,45 @@
+name: Metrics
+
+# Menggantikan athul/waka-readme: WakaTime mengukur LAMA EDITOR TERBUKA, bukan keluaran.
+# Sejak sebagian besar kode ditulis bersama agen, angka itu turun padahal hasil yang
+# dikirim bertambah — jadi yang ditampilkan sekarang adalah yang benar-benar mendarat:
+# commit, PR, review, repo tersentuh, dan status layanan produksi.
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 21 * * *"   # 04:17 WIB, tiap hari
+
+permissions:
+  contents: write
+
+concurrency:
+  group: metrics
+  cancel-in-progress: true
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Render telemetry into README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/metrics.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "Tidak ada perubahan."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "metrics: refresh output + live services"
+          git push
