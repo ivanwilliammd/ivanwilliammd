@@ -29,7 +29,10 @@ jobs:
 
       - name: Render telemetry into README
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # METRICS_TOKEN = PAT klasik (scope repo + read:user) supaya repo privat ikut
+          # terhitung. Tanpa secret itu, jatuh ke GITHUB_TOKEN bawaan — yang hanya
+          # melihat repo ini + repo publik, jadi angkanya kecil tapi tetap benar.
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
         run: python3 .github/scripts/metrics.py
 
       - name: Commit if changed

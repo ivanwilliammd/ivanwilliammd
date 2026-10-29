@@ -113,6 +113,12 @@ def collect_activity(days: int = 30) -> dict:
     repos = [r for r in repos if r["name"] != f"{OWNER}/{OWNER}"]
     repos.sort(key=lambda x: -x["commits"])
 
+    # Nama repo privat TIDAK pernah ditulis: README profil ini publik. Yang tampil
+    # hanya jumlah repo dan total commit-nya.
+    private_count = sum(1 for r in repos if r["private"])
+    private_commits = sum(r["commits"] for r in repos if r["private"])
+    public_repos = [r for r in repos if not r["private"]]
+
     merged = 0
     try:
         since_date = since.date().isoformat()
@@ -131,9 +137,12 @@ def collect_activity(days: int = 30) -> dict:
         "prs": int(cc.get("totalPullRequestContributions") or 0),
         "reviews": int(cc.get("totalPullRequestReviewContributions") or 0),
         "private": int(cc.get("restrictedContributionsCount") or 0),
+        "private_repos": private_count,
+        "private_commits": private_commits,
         "merged": merged,
         "active_days": min(days_active, days),
-        "repos": repos,
+        "repos": public_repos,
+        "touched": len(public_repos) + private_count,
     }
 
 
@@ -186,7 +195,7 @@ def render(activity: dict, langs: list[tuple[str, int]], services: list[tuple[st
         f"| Pull requests merged | **{merged}** |",
         f"| Reviews given | **{activity['reviews']}** |",
         f"| Active days | **{activity['active_days']}/{w}** |",
-        f"| Repositories touched | **{len(activity['repos'])}** |",
+        f"| Repositories touched | **{activity.get('touched', len(activity['repos']))}** |",
     ]
 
     if activity["repos"]:
@@ -194,9 +203,15 @@ def render(activity: dict, langs: list[tuple[str, int]], services: list[tuple[st
         top = activity["repos"][:8]
         biggest = top[0]["commits"] or 1
         for r in top:
-            name = r["name"].split("/")[-1] + (" · private" if r["private"] else "")
-            rows.append(f"{name:<34} {r['commits']:>4}  {bar(r['commits'], biggest)}")
+            rows.append(f"{r['name'].split('/')[-1]:<34} {r['commits']:>4}  {bar(r['commits'], biggest)}")
         rows.append("```")
+
+    if activity.get("private_repos"):
+        rows += [
+            "",
+            f"{activity['private_repos']} private repositories · "
+            f"{activity['private_commits']} commits (names withheld)",
+        ]
 
     shown = [(n, v) for n, v in langs if v >= 10_000][:6]
     if shown:
