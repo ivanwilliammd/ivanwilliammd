@@ -1,77 +1,104 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/ivanwilliammd/ivanwilliammd.github.io/master/assets/img/mark.svg" width="96" alt="Ivan William Harsono">
+
 # Ivan William Harsono
 
 **MD · MCS · PhD · CPHIMS · FISQua**
 
-Clinical pathologist in training at FKUI–RSCM · health-data infrastructure · FHIR & clinical terminology · clinical AI
+### Health AI Architect & Strategist
 
-[![Website](https://img.shields.io/badge/ivanwilliamharsono.com-111?style=flat-square&logo=googlechrome&logoColor=white)](https://ivanwilliamharsono.com)
+Bridging clinical multiomics with scalable technology · HL7 FHIR interoperability · agentic AI · precision-medicine systems
+
+[![Portfolio](https://img.shields.io/badge/portfolio-ivanwilliamharsono.com-25c69d?style=flat-square&logo=googlechrome&logoColor=white)](https://ivanwilliamharsono.com)
+[![Live services](https://img.shields.io/badge/live%20services-pit%20stop-0b1512?style=flat-square&logo=statuspage&logoColor=25c69d)](https://ivanwilliammd.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanwilliammd/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=TMuoV-AAAAAJ)
+[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=TMuoV-AAAAAJ)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ivan-Harsono)
-[![XERJ Corpus Hub](https://hub.xerj.org/contributors/ivanwilliammd/badge.svg)](https://hub.xerj.org/contributors/ivanwilliammd)
-[![Email](https://img.shields.io/badge/email-ivanwilliam.md@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ivanwilliam.md@gmail.com)
+[![XERJ](https://hub.xerj.org/contributors/ivanwilliammd/badge.svg)](https://hub.xerj.org/contributors/ivanwilliammd)
 
 </div>
 
-I build the plumbing that health systems quietly depend on: the interoperability layer between hospital
-systems and the national platform, the terminology that makes two systems mean the same thing, and the
-checks that stop bad data before it becomes a rejected claim or a wrong result. Medicine gives me the
-domain; computer science gives me the tools.
+I bridge two worlds that usually do not talk to each other: **clinical medicine** and **scalable
+engineering**. My work turns agentic AI, multiomics and hard interoperability standards into systems that
+hospitals can run on a Monday morning — not slideware that impresses on a Friday.
 
-What I care about is **shipped and verifiable** — a library running in a hospital, a service answering at
-3 a.m., a paper with a DOI. If it has not run outside my laptop, it is not finished.
+The turning point of that work was leading **data standardisation for SATUSEHAT**, Indonesia's national
+health interoperability platform. That is where FHIR R4, terminology mapping and master data management
+stopped being theory and became a national contract between thousands of facilities. Everything I have
+built since inherits that constraint: *the payload must be right, in production, for people who will never
+read the spec.*
 
----
+<div align="center">
 
-## What I work on
+**🧠 Health AI** · **🔗 Interoperability** · **🧬 Multiomics** · **🏥 Clinical platforms**
 
-**Interoperability that hospitals actually run.** Product manager for SATUSEHAT DTO standardisation at
-Indonesia's Ministry of Health (2022–2023), and author of the open-source
-[SATUSEHAT integration library](https://github.com/ivanwilliammd/satusehat-integration) — PHP, Node.js,
-Python and Go, MIT-licensed, for EMR teams who would otherwise hand-write FHIR JSON.
-
-**Terminology as infrastructure.** [SmarTerm](https://terminology.ivanmd.id) puts ICD-10, ICD-9-CM,
-LOINC, SNOMED CT, KFA and KPTL v1.7 into one search-and-mapping engine, shared by every service in the
-ecosystem instead of copied per app.
-
-**Clinical AI with a safety rail.** [SmartClaim](https://claim.ivanmd.id) reads an episode file and
-checks whether diagnosis, procedure and financing codes agree *before* the claim is submitted — not
-after it bounces. IvanMD's LLM decision support and the WISH receipt assistants follow the same rule:
-the model proposes, deterministic rules and the clinician decide.
-
-**Diagnostics and laboratory informatics.** As a clinical pathology resident I read haematology,
-chemistry, immunology and molecular results all day, which is why the software I write for laboratories
-starts from the report rather than from the schema.
+</div>
 
 ---
 
-## Selected work
+## 🧠 What I architect
 
-| Project | What it does | Link |
-|---|---|---|
-| **SmartClaim** | Claim-integrity checks (ICD-10 / ICD-9-CM / INA-CBG) on episode files before submission | [claim.ivanmd.id](https://claim.ivanmd.id) |
-| **SmarTerm** | Shared terminology service: ICD-10, ICD-9-CM, LOINC, SNOMED CT, KFA, KPTL | [terminology.ivanmd.id](https://terminology.ivanmd.id) |
-| **SATUSEHAT SDK** | FHIR R4 payload builders + OAuth client + durable queue, four languages | [PHP](https://github.com/ivanwilliammd/satusehat-integration) · [Node](https://github.com/ivanwilliammd/satusehat-integration-node) · [Python](https://github.com/ivanwilliammd/satusehat-integration-python) · [Go](https://github.com/ivanwilliammd/satusehat-integration-go) |
-| **IvanMD** | Medical record, teleconsultation and appointment system (web + Android) | [ivanmd.id](https://ivanmd.id) |
-| **WISH** | Receipt photo → structured expense; one dataset feeding three AI assistants | [wish.ivai.app](https://wish.ivai.app) |
-| **IDeRare** | Phenotype + exome pipeline for germline rare-disease diagnosis | [repo](https://github.com/ivanwilliammd/IDeRare) · [JAMIA Open](https://doi.org/10.1093/jamiaopen/ooae052) |
-| **I3DR-Net** | 3D lung-nodule detection on LIDC-IDRI with transfer-learning RetinaNet | [repo](https://github.com/ivanwilliammd/I3DR-Net-Transfer-Learning) · [paper](https://doi.org/10.1016/j.jksuci.2020.03.013) |
-| **SPECTRA** | Multitenant stock / ERP / POS / CRM — specification complete, build in progress | [spectra.meditechku.com](https://spectra.meditechku.com) |
-| **Clinix** | Clinical-pathology portfolio and laboratory reporting workflow | [clinix.meditechku.com](https://clinix.meditechku.com) |
-| **IVAI Link** | Invitation-only URL shortener with QR and click analytics | [link.ivai.app](https://link.ivai.app) |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-The full list — 22 projects back to 2019 — lives on [my portfolio site](https://ivanwilliamharsono.com).
+### 🧠 Health AI that a clinician can audit
+Agentic assistants and decision support where **the model proposes and deterministic rules decide**.
+[SmartClaim](https://claim.ivanmd.id) checks diagnosis, procedure and financing codes *before* a claim is
+submitted; IvanMD's CDS grounds suggestions in the encounter's SOAP; [WISH](https://wish.ivai.app) turns a
+receipt photo into structured spending that three different assistants can reason over.
+
+### 🔗 Interoperability as a product
+Author of the open-source [SATUSEHAT integration library](https://github.com/ivanwilliammd/satusehat-integration)
+— PHP, Node.js, Python and Go — plus [SmarTerm](https://terminology.ivanmd.id), one terminology engine for
+ICD-10, ICD-9-CM, LOINC, SNOMED CT, KFA and KPTL. Running against the national platform, not a sandbox.
+
+</td>
+<td width="50%" valign="top">
+
+### 🧬 Multiomics into clinical workflows
+[IDeRare](https://github.com/ivanwilliammd/IDeRare) — phenotype-driven exome analysis, published in
+*JAMIA Open* — and OMOP↔FHIR exchange for GWAS risk stratification. Genomic data is only useful when it
+reaches the clinician who is making the decision, in the format their system already speaks.
+
+### 🏥 Clinical platforms & laboratory informatics
+EMR, LIS and ERP surfaces built for real hospital workflows: [IvanMD](https://ivanmd.id),
+[Clinix](https://clinix.meditechku.com), [SPECTRA](https://spectra.meditechku.com). My clinical pathology
+practice — laboratory interpretation and whole-exome sequencing — is what keeps these architectures honest.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Output telemetry
+## 🚀 Selected systems
 
-Most profile READMEs measure editor time. That number stopped being honest once agents started writing
-code alongside me: hours went down while shipped work went up. So this block measures **what landed** —
-commits, pull requests, reviews, repositories touched — and whether the services behind them are
-actually answering right now.
+| | System | What it does | Link |
+|---|---|---|---|
+| 🧠 | **SmartClaim** | Claim-integrity checks (ICD-10 / ICD-9-CM / INA-CBG) before submission | [claim.ivanmd.id](https://claim.ivanmd.id) |
+| 🔗 | **SmarTerm** | Shared terminology service: ICD-10, ICD-9-CM, LOINC, SNOMED CT, KFA, KPTL | [terminology.ivanmd.id](https://terminology.ivanmd.id) |
+| 📦 | **SATUSEHAT SDK** | FHIR R4 builders + OAuth client + durable queue, four languages | [PHP](https://github.com/ivanwilliammd/satusehat-integration) · [Node](https://github.com/ivanwilliammd/satusehat-integration-node) · [Python](https://github.com/ivanwilliammd/satusehat-integration-python) · [Go](https://github.com/ivanwilliammd/satusehat-integration-go) |
+| 🩺 | **IvanMD** | Medical record, teleconsultation and appointments (web + Android) | [ivanmd.id](https://ivanmd.id) |
+| 🧾 | **WISH** | Receipt → structured expense, feeding three AI assistants | [wish.ivai.app](https://wish.ivai.app) |
+| 🧬 | **IDeRare** | Phenotype + exome pipeline for germline rare-disease diagnosis | [repo](https://github.com/ivanwilliammd/IDeRare) · [JAMIA Open](https://doi.org/10.1093/jamiaopen/ooae052) |
+| 🫁 | **I3DR-Net** | 3D lung-nodule detection on LIDC-IDRI with transfer-learning RetinaNet | [repo](https://github.com/ivanwilliammd/I3DR-Net-Transfer-Learning) · [paper](https://doi.org/10.1016/j.jksuci.2020.03.013) |
+| 🏗️ | **SPECTRA** | Multitenant stock / ERP / POS / CRM — spec complete, build in progress | [spectra.meditechku.com](https://spectra.meditechku.com) |
+| 🔬 | **Clinix** | Clinical-pathology portfolio and laboratory reporting workflow | [clinix.meditechku.com](https://clinix.meditechku.com) |
+| 🔗 | **IVAI Link** | Invitation-only short links with QR and click analytics | [link.ivai.app](https://link.ivai.app) |
+
+📚 The full list — **22 projects back to 2019**, publications and experience — lives on
+[ivanwilliamharsono.com](https://ivanwilliamharsono.com).
+🛰️ Every live instance, with its own status light, sits on my [production pit stop](https://ivanwilliammd.github.io).
+
+---
+
+## 📊 Output telemetry
+
+Editor-time metrics stopped being honest the moment agents started writing code with me: hours fell while
+shipped work rose. This block therefore measures **what landed** — commits, pull requests, reviews,
+repositories touched — and whether the services behind them are answering right now.
 
 <!--METRICS:START-->
 **Window:** last 30 days · updated 2026-10-29 13:30 UTC
@@ -123,40 +150,40 @@ Go           ████░░░░░░░░░░░░░░    0.31 MB
 
 ---
 
-## Research
+## 📄 Research
 
-Six first-author papers, from a case report in medical school to a Q1 methods paper:
+Six first-author papers — from a medical-school case report to a Q1 methods paper.
 
-- **IDeRare**: lightweight open-source phenotype and exome analysis pipeline for germline rare disease diagnosis — *JAMIA Open* 7(2), 2024 · [doi](https://doi.org/10.1093/jamiaopen/ooae052)
-- Clinical phenotype and trio whole-exome sequencing data in glycogen storage disease IV — *Data in Brief*, 2024 · [doi](https://doi.org/10.1016/j.dib.2024.111231)
-- Disease modelling advances in inborn errors of metabolism — *International Medical Journal* 31(6), 2024
-- Lung nodule detection and classification from thorax CT using RetinaNet with transfer learning — *J. King Saud Univ. Computer & Information Sciences*, 2020 · [doi](https://doi.org/10.1016/j.jksuci.2020.03.013)
-- Lung nodule texture detection and classification using 3D CNN — *CommIT Journal* 13(2), 2019 · [doi](https://doi.org/10.21512/commit.v13i2.5995)
-- The importance of immunohistochemical analysis in silent pituitary adenoma — *MEDICINUS* 6(3), 2017 · [doi](https://doi.org/10.19166/med.v6i3.1150)
+| Year | Paper | Venue |
+|---|---|---|
+| 2024 | **IDeRare**: phenotype + exome pipeline for germline rare disease · [doi](https://doi.org/10.1093/jamiaopen/ooae052) | *JAMIA Open* 7(2) · Q1 |
+| 2024 | Phenotype and trio WES data in glycogen storage disease IV · [doi](https://doi.org/10.1016/j.dib.2024.111231) | *Data in Brief* · Q3 |
+| 2024 | Disease modelling in inborn errors of metabolism | *Int. Medical Journal* 31(6) |
+| 2020 | Lung nodule detection with RetinaNet transfer learning · [doi](https://doi.org/10.1016/j.jksuci.2020.03.013) | *J. King Saud Univ.* · Q1 |
+| 2019 | Lung nodule texture detection with 3D CNN · [doi](https://doi.org/10.21512/commit.v13i2.5995) | *CommIT* 13(2) |
+| 2017 | Immunohistochemistry in silent pituitary adenoma · [doi](https://doi.org/10.19166/med.v6i3.1150) | *MEDICINUS* 6(3) |
 
 ---
 
-## How I build
+## 🧰 How I build
 
 <details>
-<summary><b>Stack and conventions</b> (click to expand)</summary>
+<summary><b>Stack, standards and conventions</b> (click to expand)</summary>
 
 <br>
 
-**Domain** — HL7 FHIR R4, SATUSEHAT, ICD-10 / ICD-9-CM / INA-CBG, SNOMED CT, LOINC, KFA, KPTL, HPO, OMIM, ORPHA, OMOP, DICOM.
+**Standards** — HL7 FHIR R4, SATUSEHAT, ICD-10 / ICD-9-CM / INA-CBG, SNOMED CT, LOINC, KFA, KPTL, HPO, OMIM, ORPHA, OMOP, DICOM.
 
-**Backend** — PHP 8 / Laravel, Python (FastAPI, Django, Streamlit), Node.js, Go; PostgreSQL, MySQL/MariaDB, SQLite, Redis; Passport/OIDC, Sanctum.
+**AI** — agentic pipelines, RAG, prompt engineering, LangChain; scikit-learn, PyTorch/Keras for imaging and omics.
+
+**Backend** — PHP 8 / Laravel, Python (FastAPI, Django, Streamlit), Node.js, Go; PostgreSQL, MariaDB, Redis; OIDC (Passport), Sanctum.
 
 **Frontend** — Next.js, Vue 3 + Inertia, React, Tailwind, Vite.
 
-**Data & AI** — pandas, scikit-learn, PyTorch/Keras, LangChain, RAG, prompt engineering, n8n and RPA.
+**Platform** — Docker, GitHub Actions, Vercel, Cloudflare, aaPanel; zero-build deploys where the server may only `git pull`.
 
-**Infrastructure** — Docker, GitHub Actions, Vercel, Cloudflare, aaPanel; zero-build deploys where the
-server may only `git pull`.
-
-**Conventions I hold to** — code symbols in English, UI text in Indonesian; every change carries a test
-whose numbers are quoted before and after; a feature is done when it can be triggered through the API,
-not only through a dashboard.
+**Conventions** — code symbols in English, UI text in Indonesian; every change carries a test quoted before
+and after; a feature is done when it can be triggered through the API, not only through a dashboard.
 
 </details>
 
@@ -164,9 +191,13 @@ not only through a dashboard.
 
 <div align="center">
 
-**Open to collaboration on FHIR and terminology infrastructure, clinical decision support, and
-laboratory informatics.** The fastest way to reach me is [email](mailto:ivanwilliam.md@gmail.com) or
-[LinkedIn](https://www.linkedin.com/in/ivanwilliammd/).
+### 🤝 Let's build something that has to work
+
+Advisory, architecture review, or hands-on delivery for health AI, FHIR/terminology infrastructure and
+clinical data platforms.
+
+[![Email](https://img.shields.io/badge/email-ivanwilliam.md@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ivanwilliam.md@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/message-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanwilliammd/)
 
 <sub>© 2019–2026 Ivan William Harsono · Founder of <a href="https://meditechku.com">PT Meditech Konsulindo Utama</a> · <a href="https://ivai.app">IVAI</a></sub>
 
