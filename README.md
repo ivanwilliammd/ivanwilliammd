@@ -74,11 +74,11 @@ commits, pull requests, reviews, repositories touched — and whether the servic
 actually answering right now.
 
 <!--METRICS:START-->
-**Window:** last 30 days · updated 2026-10-29 13:29 UTC
+**Window:** last 30 days · updated 2026-10-29 13:30 UTC
 
 | Shipped | Count |
 |---|---:|
-| Commits | **51** |
+| Commits | **52** |
 | Pull requests opened | **0** |
 | Pull requests merged | **0** |
 | Reviews given | **0** |
@@ -107,16 +107,16 @@ Go           ████░░░░░░░░░░░░░░    0.31 MB
 
 | Service | Code | Latency |
 |---|---:|---:|
-| Portfolio site | OK | 150 ms |
-| IVAI | OK | 140 ms |
-| IVAI Link | OK | 89 ms |
-| SmarTerm | OK | 319 ms |
-| SmartClaim | OK | 234 ms |
-| WISH | OK | 78 ms |
-| Clinix | OK | 298 ms |
-| SPECTRA | OK | 899 ms |
-| Pay | OK | 406 ms |
-| IvanMD Identity | OK | 377 ms |
+| Portfolio site | OK | 981 ms |
+| IVAI | OK | 1047 ms |
+| IVAI Link | OK | 1056 ms |
+| SmarTerm | OK | 1332 ms |
+| SmartClaim | OK | 961 ms |
+| WISH | OK | 405 ms |
+| Clinix | OK | 1267 ms |
+| SPECTRA | OK | 1496 ms |
+| Pay | OK | 2883 ms |
+| IvanMD Identity | OK | 2281 ms |
 
 <sub>Measured from the GitHub API and real HTTP responses — what shipped, not how long an editor was open. Refreshed daily by [`.github/workflows/metrics.yml`](.github/workflows/metrics.yml).</sub>
 <!--METRICS:END-->
