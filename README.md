@@ -213,6 +213,15 @@ and after; a feature is done when it can be triggered through the API, not only 
 
 <div align="center">
 
+### ❤️ Keep it running
+
+The SDKs, the FHIR implementation guidance and the small utilities here are built in the open, most of
+them on unpaid time. If one of them saves you a week of integration work, you can sponsor the work — or
+send a change back. Bug reports, corrected profiles and better examples count just as much as code.
+
+[![Sponsor](https://img.shields.io/badge/sponsor-%E2%9D%A4-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ivanwilliammd)
+[![Contribute](https://img.shields.io/badge/contribute-pick%20a%20repository-25c69d?style=flat-square)](https://github.com/ivanwilliammd?tab=repositories)
+
 ### 🤝 Let's build something that has to work
 
 Advisory, architecture review, or hands-on delivery for health AI, FHIR/terminology infrastructure and
