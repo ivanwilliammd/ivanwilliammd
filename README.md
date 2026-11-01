@@ -54,6 +54,9 @@ Author of the open-source [SATUSEHAT integration library](https://github.com/iva
 — PHP, Node.js, Python and Go — plus [SmarTerm](https://terminology.ivanmd.id), one terminology engine for
 ICD-10, ICD-9-CM, LOINC, SNOMED CT, KFA and KPTL. Running against the national platform, not a sandbox.
 
+Contributor to the national [FHIR Indonesia Implementation Guide](https://ig.fhir-indonesia.org) — the
+ID Core profiles (id-core-*) that SATUSEHAT payloads are validated against, built from FSH in CI.
+
 </td>
 <td width="50%" valign="top">
 
@@ -79,6 +82,7 @@ practice — laboratory interpretation and whole-exome sequencing — is what ke
 |---|---|---|---|
 | 🧠 | **SmartClaim** | Claim-integrity checks (ICD-10 / ICD-9-CM / INA-CBG) before submission | [claim.ivanmd.id](https://claim.ivanmd.id) |
 | 🔗 | **SmarTerm** | Shared terminology service: ICD-10, ICD-9-CM, LOINC, SNOMED CT, KFA, KPTL | [terminology.ivanmd.id](https://terminology.ivanmd.id) |
+| 🇮🇩 | **FHIR Indonesia IG** | National ID Core profiles for SATUSEHAT, published from FSH via CI | [ig.fhir-indonesia.org](https://ig.fhir-indonesia.org) |
 | 📦 | **SATUSEHAT SDK** | FHIR R4 builders + OAuth client + durable queue, four languages | [PHP](https://github.com/ivanwilliammd/satusehat-integration) · [Node](https://github.com/ivanwilliammd/satusehat-integration-node) · [Python](https://github.com/ivanwilliammd/satusehat-integration-python) · [Go](https://github.com/ivanwilliammd/satusehat-integration-go) |
 | 🩺 | **IvanMD** | Medical record, teleconsultation and appointments (web + Android) | [ivanmd.id](https://ivanmd.id) |
 | 🧾 | **WISH** | Receipt → structured expense, feeding three AI assistants | [wish.ivai.app](https://wish.ivai.app) |
