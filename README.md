@@ -105,13 +105,13 @@ shipped work rose. This block therefore measures **what landed** — commits, pu
 repositories touched — and whether the services behind them are answering right now.
 
 <!--METRICS:START-->
-**Window:** last 30 days · updated 2026-11-05 01:28 UTC
+**Window:** last 30 days · updated 2026-11-06 01:34 UTC
 
 | Shipped | Count |
 |---|---:|
-| Commits | **1574** |
-| Pull requests opened | **112** |
-| Pull requests merged | **102** |
+| Commits | **1561** |
+| Pull requests opened | **121** |
+| Pull requests merged | **111** |
 | Reviews given | **0** |
 | Active days | **30/30** |
 | Private contributions | **0** (names withheld) |
@@ -123,7 +123,7 @@ repositories touched — and whether the services behind them are answering righ
 
 ```
 private repo #1                     279  ██████████████████
-private repo #2                     252  ████████████████░░
+private repo #2                     253  ████████████████░░
 private repo #3                     238  ███████████████░░░
 private repo #4                      86  ██████░░░░░░░░░░░░
 private repo #5                      76  █████░░░░░░░░░░░░░
@@ -139,12 +139,12 @@ satusehat-integration-node            7  █████░░░░░░░░
 satusehat-integration-python          7  █████░░░░░░░░░░░░░
 ```
 
-29 private repositories · 1470 commits (names withheld)
+29 private repositories · 1459 commits (names withheld)
 
 **Languages by bytes in those repositories**
 
 ```
-PHP          ██████████████████   11.00 MB
+PHP          ██████████████████   11.06 MB
 Vue          ████░░░░░░░░░░░░░░    2.43 MB
 Blade        ████░░░░░░░░░░░░░░    2.42 MB
 TypeScript   ██░░░░░░░░░░░░░░░░    1.44 MB
@@ -156,16 +156,16 @@ HTML         █░░░░░░░░░░░░░░░░░    0.72 MB
 
 | Service | Code | Latency |
 |---|---:|---:|
-| Portfolio site | OK | 772 ms |
-| IVAI | OK | 782 ms |
-| IVAI Link | OK | 802 ms |
-| SmarTerm | OK | 1112 ms |
-| SmartClaim | OK | 990 ms |
-| WISH | OK | 422 ms |
-| Clinix | OK | 1198 ms |
-| SPECTRA | OK | 1532 ms |
-| Pay | OK | 2115 ms |
-| IvanMD Identity | OK | 1963 ms |
+| Portfolio site | OK | 904 ms |
+| IVAI | OK | 1015 ms |
+| IVAI Link | OK | 900 ms |
+| SmarTerm | OK | 1107 ms |
+| SmartClaim | OK | 1192 ms |
+| WISH | OK | 418 ms |
+| Clinix | OK | 1348 ms |
+| SPECTRA | OK | 1739 ms |
+| Pay | OK | 2989 ms |
+| IvanMD Identity | OK | 2339 ms |
 
 <sub>Measured from the GitHub API and real HTTP responses — what shipped, not how long an editor was open. Refreshed daily by [`.github/workflows/metrics.yml`](.github/workflows/metrics.yml).</sub>
 <!--METRICS:END-->
