@@ -105,11 +105,11 @@ shipped work rose. This block therefore measures **what landed** — commits, pu
 repositories touched — and whether the services behind them are answering right now.
 
 <!--METRICS:START-->
-**Window:** last 30 days · updated 2026-11-07 00:57 UTC
+**Window:** last 30 days · updated 2026-11-08 00:37 UTC
 
 | Shipped | Count |
 |---|---:|
-| Commits | **1570** |
+| Commits | **1565** |
 | Pull requests opened | **129** |
 | Pull requests merged | **119** |
 | Reviews given | **0** |
@@ -124,7 +124,7 @@ repositories touched — and whether the services behind them are answering righ
 ```
 private repo #1                     279  ██████████████████
 private repo #2                     253  ████████████████░░
-private repo #3                     237  ███████████████░░░
+private repo #3                     234  ███████████████░░░
 private repo #4                      86  ██████░░░░░░░░░░░░
 private repo #5                      76  █████░░░░░░░░░░░░░
 ```
@@ -156,16 +156,16 @@ HTML         █░░░░░░░░░░░░░░░░░    0.72 MB
 
 | Service | Code | Latency |
 |---|---:|---:|
-| Portfolio site | OK | 888 ms |
-| IVAI | OK | 1174 ms |
-| IVAI Link | OK | 975 ms |
-| SmarTerm | OK | 1354 ms |
-| SmartClaim | OK | 1179 ms |
-| WISH | OK | 178 ms |
-| Clinix | OK | 867 ms |
-| SPECTRA | OK | 1686 ms |
-| Pay | OK | 3203 ms |
-| IvanMD Identity | OK | 2306 ms |
+| Portfolio site | OK | 801 ms |
+| IVAI | OK | 800 ms |
+| IVAI Link | OK | 807 ms |
+| SmarTerm | OK | 1140 ms |
+| SmartClaim | OK | 1164 ms |
+| WISH | OK | 448 ms |
+| Clinix | OK | 1040 ms |
+| SPECTRA | OK | 1073 ms |
+| Pay | OK | 2514 ms |
+| IvanMD Identity | OK | 1885 ms |
 
 <sub>Measured from the GitHub API and real HTTP responses — what shipped, not how long an editor was open. Refreshed daily by [`.github/workflows/metrics.yml`](.github/workflows/metrics.yml).</sub>
 <!--METRICS:END-->
