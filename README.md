@@ -105,11 +105,11 @@ shipped work rose. This block therefore measures **what landed** — commits, pu
 repositories touched — and whether the services behind them are answering right now.
 
 <!--METRICS:START-->
-**Window:** last 30 days · updated 2026-11-13 01:50 UTC
+**Window:** last 30 days · updated 2026-11-14 01:27 UTC
 
 | Shipped | Count |
 |---|---:|
-| Commits | **1557** |
+| Commits | **1551** |
 | Pull requests opened | **129** |
 | Pull requests merged | **119** |
 | Reviews given | **0** |
@@ -139,7 +139,7 @@ satusehat-integration-node            8  ██████░░░░░░░
 satusehat-integration-python          8  ██████░░░░░░░░░░░░
 ```
 
-30 private repositories · 1464 commits (names withheld)
+30 private repositories · 1460 commits (names withheld)
 
 **Languages by bytes in those repositories**
 
@@ -156,16 +156,16 @@ JavaScript   █░░░░░░░░░░░░░░░░░    0.76 MB
 
 | Service | Code | Latency |
 |---|---:|---:|
-| Portfolio site | OK | 961 ms |
-| IVAI | OK | 984 ms |
-| IVAI Link | OK | 756 ms |
-| SmarTerm | OK | 975 ms |
-| SmartClaim | OK | 778 ms |
-| WISH | OK | 647 ms |
-| Clinix | OK | 755 ms |
-| SPECTRA | OK | 1013 ms |
-| Pay | OK | 1963 ms |
-| IvanMD Identity | OK | 1402 ms |
+| Portfolio site | OK | 969 ms |
+| IVAI | OK | 847 ms |
+| IVAI Link | OK | 778 ms |
+| SmarTerm | OK | 976 ms |
+| SmartClaim | OK | 788 ms |
+| WISH | OK | 383 ms |
+| Clinix | OK | 780 ms |
+| SPECTRA | OK | 1006 ms |
+| Pay | OK | 1997 ms |
+| IvanMD Identity | OK | 1380 ms |
 
 <sub>Measured from the GitHub API and real HTTP responses — what shipped, not how long an editor was open. Refreshed daily by [`.github/workflows/metrics.yml`](.github/workflows/metrics.yml).</sub>
 <!--METRICS:END-->
