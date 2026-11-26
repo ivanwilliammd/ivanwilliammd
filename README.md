@@ -105,11 +105,11 @@ shipped work rose. This block therefore measures **what landed** — commits, pu
 repositories touched — and whether the services behind them are answering right now.
 
 <!--METRICS:START-->
-**Window:** last 30 days · updated 2026-11-25 04:12 UTC
+**Window:** last 30 days · updated 2026-11-26 03:35 UTC
 
 | Shipped | Count |
 |---|---:|
-| Commits | **1975** |
+| Commits | **1979** |
 | Pull requests opened | **136** |
 | Pull requests merged | **123** |
 | Reviews given | **0** |
@@ -122,9 +122,9 @@ repositories touched — and whether the services behind them are answering righ
 *Private — names withheld*
 
 ```
-private repo #1                     285  ██████████████████
-private repo #2                     275  █████████████████░
-private repo #3                     146  █████████░░░░░░░░░
+private repo #1                     303  ██████████████████
+private repo #2                     268  ████████████████░░
+private repo #3                     147  █████████░░░░░░░░░
 private repo #4                      94  ██████░░░░░░░░░░░░
 private repo #5                      81  █████░░░░░░░░░░░░░
 ```
@@ -139,33 +139,33 @@ satusehat-integration-node           97  ██████████░░░
 ivanwilliammd.github.io              27  ███░░░░░░░░░░░░░░░
 ```
 
-25 private repositories · 1359 commits (names withheld)
+25 private repositories · 1340 commits (names withheld)
 
 **Languages by bytes in those repositories**
 
 ```
-PHP          ██████████████████    8.88 MB
-TypeScript   ██████░░░░░░░░░░░░    2.94 MB
-Python       ██████░░░░░░░░░░░░    2.84 MB
-Blade        ████░░░░░░░░░░░░░░    2.16 MB
-Go           ███░░░░░░░░░░░░░░░    1.72 MB
-Vue          ██░░░░░░░░░░░░░░░░    1.13 MB
+PHP          ██████████████████    5.21 MB
+TypeScript   ██████████░░░░░░░░    2.94 MB
+Python       ██████████░░░░░░░░    2.85 MB
+Go           ███████░░░░░░░░░░░    1.95 MB
+Vue          ████░░░░░░░░░░░░░░    1.12 MB
+Rust         ███░░░░░░░░░░░░░░░    0.94 MB
 ```
 
 **Live services** (HTTP code · latency, checked now)
 
 | Service | Code | Latency |
 |---|---:|---:|
-| Portfolio site | OK | 1180 ms |
-| IVAI | OK | 904 ms |
-| IVAI Link | OK | 1360 ms |
-| SmarTerm | OK | 1238 ms |
-| SmartClaim | OK | 1261 ms |
-| WISH | OK | 443 ms |
-| Clinix | OK | 2277 ms |
-| SPECTRA | OK | 1888 ms |
-| Pay | OK | 3271 ms |
-| IvanMD Identity | OK | 1937 ms |
+| Portfolio site | OK | 1518 ms |
+| IVAI | OK | 1146 ms |
+| IVAI Link | OK | 1496 ms |
+| SmarTerm | OK | 1843 ms |
+| SmartClaim | OK | 1805 ms |
+| WISH | OK | 384 ms |
+| Clinix | OK | 1778 ms |
+| SPECTRA | OK | 1662 ms |
+| Pay | OK | 3059 ms |
+| IvanMD Identity | OK | 2507 ms |
 
 <sub>Measured from the GitHub API and real HTTP responses — what shipped, not how long an editor was open. Refreshed daily by [`.github/workflows/metrics.yml`](.github/workflows/metrics.yml).</sub>
 <!--METRICS:END-->
